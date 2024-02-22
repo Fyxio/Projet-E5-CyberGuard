@@ -1,0 +1,16 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+Vulnérabilités		TAR	285	nouvelle taille enregistrement : 285
+Vulnérabilités	Probabilite	RUB+		Probabilite est une nouvelle rubrique
+Vulnérabilités	Gravite	RUB+		Gravite est une nouvelle rubrique
+Vulnérabilités	Impacts	RUB+		Impacts est une nouvelle rubrique
+Vulnérabilités	Niveau_Sévérité	RUB-		la rubrique Niveau_Sévérité est supprimée
+Menaces		TAR	541	nouvelle taille enregistrement : 541
+Menaces	Probabilite	RUB+		Probabilite est une nouvelle rubrique
+Menaces	Gravite	RUB+		Gravite est une nouvelle rubrique
+Menaces	Impacts	RUB+		Impacts est une nouvelle rubrique
+Inventaire_des_actifs		TAR	234	nouvelle taille enregistrement : 234
+Inventaire_des_actifs	Importance	RUB+		Importance est une nouvelle rubrique
+Evaluation_des_risques		TAR	49	nouvelle taille enregistrement : 49
+Evaluation_des_risques	Probabilite	RUB-		la rubrique Probabilite est supprimée
+Evaluation_des_risques	Gravite	RUB-		la rubrique Gravite est supprimée
+Evaluation_des_risques	Impacts	RUB-		la rubrique Impacts est supprimée
