@@ -1,0 +1,271 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : FEN_GestionMenacesVulnerabilites_Cyberguard
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : FEN_GestionMenacesVulnerabilites_Cyberguard
+ identifier : 0x25ef31e301a85a32
+ internal_properties : CAAAAAgAAACiP7hKekkoKFRZv2oE9kF/w/SacQbdahhj4tqpLq8UPkMKhajPJ+0jBCm0JScfJgkPhKKOa9prcJZEpCQUInZUdeaByyukZ1vNE34voS1ElQNtYljA97Dk6nGHQ8MVuFuCvI3prdhbHeLC485Rc3GLNpEIY/u+oewZr82gGyIY8vEoene5xl2FAIr20ZCduf4df7wkvTe8gHnxozLwP3/rjbS3elYeGpdZva83xZg9J40sYBOP6BgPaRS4kxDElzG/dRljA2t5WfS5kO8ZjcuIeDpIQV5tHdb55s1KlEE9UETuFaLZdAM/hJtXjoSjSl+KPq0Es7CAIvU7CJPCJtScElyRloYYh3+OnvVwsWIlH6dJsX+aZlGIbH+EdqJChT8E+iIf8WY5xEw0WdLYHQgqoXvSUmRsGmWkhgafXxx0plnx0xUFLKw5uKYx9ZaawB3EkIPmH3P11qV2fQSu1IiyrVpkJdo/a+8eBQtQ7jkwks0s+3WkTWrNxmZItV+pe1alWQya9F88GkuGr6LdWCVqZBp0cux8nIBpJoKbGy0Aa7RdguWz7mZcKOvs2+bBteQPwbZ/zB1/NP9Kth2hep90CyNmr1SN05W/ijy01wo2hu83A38zF6YTqIZDvUtslFLVT/d5PCGPQuZlTHr0EDpCrwRqqwwiMNrpWoSRv1DsN+TggydwL6hdNAX5iCiUbvAcjUTwe4aiaTbamkqRuoolk24lv4ljotwZCGWe1dU7xyaP0vDV0cc1C4Jgr74EyqNKiVSXTjaUIuIX9HC06SKi2RihraXDwBicpebCQU/LA7ALkWZBFn8ZApMftmfgqNwp+Kkoj37wEr9sSKVXgSenQH9+2Coj8rvWAwd0u6lu0GF+o2pp//DdcOp663dZW6u0h1Tl4FGyQmuNAjiwbEp8+gRyo73ojeZxkduyMxuz9t/zBLDS289Zr+afuIshWW2qwSOa9IavOqErHSwYFCeQm6Dzyu6rifzCoZnmrQuhDVxxkMPDArgv3v3zCVGUWR+vuyyS/g7zg/uYG7A4dxmVxIPZhAXFoNm9iGjPk+8ZMreyHlHoo2JFj3n3uotVhPGt2RpXxf8DuUgFnf1zGZdhXy8M4YH3OEo457t8aLTx2Lbno5NNuTp8OskBcMxrH7fCAfsQ9s6OBCFCcbEHJRdQasGQHEwJX481JkYRMSngnz62X3CjKRSX8k/0hUEffY6dWra/qSt93FkZuSeloDHo53/pPPvhdTC1jiJvqOn4R3uxaAJBa9zGBA0mIOsQ7mVw33OyKKzl6LMAI9YYo2ATb0zWp4AcLO5vMzTjUZSSEm2Q2cSY5giVGsEX1kcywX8J5SIk0WumBie4rv2UaS+4I6sJKshU1Y1OneJp8vaEKbk3WGeXDmV+kdIc8xx04IWzC3sBX31sBcrhXqwaZnw8xl1NLHdEwbszPq/T+gWrKd06n0g=
+ properties :
+  width : 360
+  height : 569
+  heightMin : 650
+ controls :
+  -
+    name : ZM_ACTION4
+    identifier : 0x25ef31e301a95a32
+    internal_properties : CAAAAAgAAABbXT29oBYawEdCkBHJEwYMzDsfa3RZDc/HvyyX6d+y4rZbRJSeIzreJkBKQ5Tz/p0LiS8HfxbMcn5joDbxKdAAvzc0SrEiPUG0xcjs8vgQkzFmOkKjpgj8yTFydm1c0bZ0MYIVwi0aRYgVU5LvdptGxEfW3aOq1JR4t4BP70sRSSmLKR7fxvQKR9aPyKj1H+YtgEHYINgF8DmzWdbc+kXu13JaqJRkcnjUSjZ90tuLFnKI/aaURxGhM0/ywcYAPikdIgemuRXklsvaKemZBPVJNLK4McP98a1zUUnp/+Plpczwvnk3bOuaN0uqpJlDMk3iYBCl5PKFSQzypSqh6ghoWApibBV00ea6gzzCX40OwtMmuZTRRvrbwMZFITLzGUZDZtVkefAm6fTmlaevQC0bfNYBHXwyyJ3PkwCpcwRurmFkPkaB6EFgh2XESHn5oUOXhcTBxgI3+C0HV0moZdfvG/kMr5CFI+SS9XipOvS1CUy3gR1i1EUA1VdlzqShYZkg4s384SA/f6t3s3WNH0trm4ZqnVJxMin5Bgg1/8CA7A73EIHtb7JDavzhjyApgfmIHxBJCjKdDikzsPhNudh2yOBAGTpbzTTzMU5DlEqgJenL/U3PzMdDzl3qPk9I8f0t62g3v1usuUCvTuh4Xuu0vo46cn50PTO+5IQGlGe/AB6DABXFxaABLjRM6tD4D/rvWoOjpHJyz+urex4acMS8ZYDO8G1/B8JNu2Anq78zGyDVqnRT3pB10U8P2j1tukTVczXYIgQg893uU45oH1UWvw9U0T0RZaoj/CAK9w6H1Z99Pa9k/rtlD0cn90OYpZM7Gya3qyqR7+91Q/5AAjvanbDYO+XvOA==
+    properties :
+     x : 77
+     y : 70
+     width : 208
+     height : 188
+    rows :
+     -
+       internal_properties : CAAAAAgAAAB7PqBkiqhG8dQMkSzqTrLw9sHoDIW27tEZwHW823H0Ue4PGxl/rEpR+JTSXdDJTP9p4QsxMQFQiQSxHZQq7c9W2vZj81olAIdmobpyjgtDD9HaxapIMa4dL4aFW05S3ptNt1x40dURygn1SWUy1HGL+Lfj8URf
+       controls :
+        -
+          name : LIB_TitreAction4
+          identifier : 0x25ef31e301ab5a32
+          internal_properties : CAAAAAgAAABPsrpHsQEgeUebE6lsA+5LECM//cqt8/FwfgPOf92XAhlRT3Prg2N+UtDKHxoXehTr3qTfIR38K5zAlUKKr9HZ+WcfyECDooWUjoYb4OzYI8rWSGzt525dWtuv3U3d+xWiHzOQhNOCJql5tfqJ2yIxX4IoD37KFvM/xZbMInYCjbUIu0TC1Xs1rzNQIOi4dZUQkNtlcJz2UH58y1WclV/1TP2gxLnHQcujGrUwhUl8DTNWwZ8D3XCpChE57QoRQdZrpjNpbMCAO4LJbi6wj6u/MPq+HbyHcssXCD/8Yz6lvKItz7wVoepLNyMufpgD028v9kVB0N1aU7to9ATIJrf+daNgSHRS2yp4QlLcZxB5QGjD0A986FXeD71LnG7Bagsfhcc2KYh9qdehsRlGN6ERExPXQLDiM1BN1KGXXBefLhDB7SnQ86hii3hRAgYTabLUS7OyEZl0kYgzo02nVuuRsRORvVf7E/D14ZTdRqk25EO9zAnZmXJlEaAxIuMn6SFHg5eEha/9XdhXi5uV40kCTPToNo77TA==
+          properties :
+           x : 2
+           y : 99
+           width : 206
+           height : 89
+          type : 3
+          layout :
+           -
+             x : 79
+             y : 169
+             width : 206
+             height : 89
+           -
+             x : 112
+             y : 256
+             width : 367
+             height : 85
+          code_elements :
+           type_code : 2
+           p_codes : []
+        -
+          name : BTN_MEN
+          identifier : 0x25ef5c4e03930d53
+          internal_properties : CAAAAAgAAABdwwVXH3frtEF/+nJFPYJmw0kscoSGmkdrf87mmudNfKDPqZjOgFDXxeqiu/dF5sRxvc0wnnwMYW8Gtq4cBm8rb7yUQ/jOu+iqIS4+deJIVc4Tv2Bd/gRTqYpiFbaRwzqUJS0G6f37ulvpCRTEq1fc6XrCyp1nOuJCe1Ct0IHK0gjuIwAI7erhKeuai9BJk1oUcIU1WsSKTjKJLOT6VOQnCwgBy4DI/gIl0f1DyoFy23h2I7VDuBV1fjxRf/Mjn0AJ37i44J7TYFA6JRVOMrMZwfmFs610x0MRrd877R3pDvBeRKdRX5t4lNmGJ5+NenbCTtfe3Lew6/uWCvDhrCKzZPOJZemZYRZmAntloNtOnppkJ8UZ1eq+dlFhB94GfBufwmPYRbmVa95vjGvuu8bWMED/CxgvK7BE74djLBsNBiSqqeqA59u5j/HIAZIeGqti/ekRCe+cSSaUvXxigo+jtnLgljteeFbAfbhBPCEsmDRmXgt6J/xU2wQWZZvBytdKXJ+Bn/IG61ggXV4QnUnuQZ535fBR8lx/uebwZFxRtKUNUbifCXr7zKwKoZ+kx/kM0IDzLBl1jmjKi8Rp421HkTXZiim4Bo5q2Swogz5+2rxl4TJ8ko6LqiM6SdiiHS73shaiGG5y1Ci8wfjui/Cn/oLIjQi65Q0JbRnFWw9+iyTtYiEdCltn01ZFkfxtmO0i2IWhjzxCGZlLbZDcB52zRWtthQT1Kco65FG8Z8hF/mUBu1ppqdM4t+3HKNVd/lFMftprSqeJf7X6uDfTuoDpwLEPvC9xblEb/ruaXZ8pcIN6NZKq+UKaWkyHV5njD6p8+pkApY3pD2IqmaYUqDNHHT2kcCxGxj+zWwDY9zZAy1gqRupxyHBHZW3qn15OO7pW0TXuuoaARETadXR8qd2Uc+sixAGXwc4KwaT/jNVdJqfRpuPNfn4JOv20wR0nBh+42fu1hoFOUiuHBuCLOi5z7zdpmr1PKsaEmKSYROcHMFqRruoMNLUV8w==
+          properties :
+           x : 73
+           y : 15
+           width : 60
+           height : 76
+          type : 4
+          layout :
+           -
+             x : 150
+             y : 85
+             width : 60
+             height : 76
+           -
+             x : 234
+             y : 145
+             width : 124
+             height : 81
+          code_elements :
+           type_code : 4
+           p_codes :
+            -
+              code : |1+
+               // le clic dans la ZML exécutera le code de clic de ce bouton
+               // A Faire : Ajoutez le code sur le clic de ce bouton
+               Ouvre(FEN_Menu_Cyberguard)
+              type : 18
+            -
+              type : 161
+              enabled : false
+    type : 97
+    layout :
+     -
+       x : 77
+       y : 70
+       width : 208
+       height : 188
+     -
+       x : 112
+       y : 112
+       width : 368
+       height : 228
+    controls : []
+    code_elements :
+     type_code : 126
+     p_codes :
+      -
+        code : |1+
+         // Le clic sur la ZML execute simplement le code du bouton associé
+         ExécuteTraitement(BTN_MEN, trtClic)
+         
+        type : 33
+      -
+        type : 222
+        enabled : false
+      -
+        type : 223
+        enabled : false
+  -
+    name : ZM_ACTION5
+    identifier : 0x25ef31e301ad5a32
+    internal_properties : CAAAAAgAAABomWw0jAHy9vZAf0c0g+Y9WjeVVUyFUrdPy2KYur7j+jP/5ByYQPM2XGrkz9DkE2fOiGi7PTCkFvRqobAnzYzJuBhvXq7NGzJS+CW5eUZNNsDy65p8K10y344Vsbycdr+4hVuWPzLMKSSEsLOHyZFgzMdLXGHmsjdO/yuxMljwjEKGhwv8qAdgoKpBBrMyhB4LhfleI/whMFutVlbYwUE1uE3aU4254FEPJfFiFhwxwHQmEhr7P7MxxmAM6zG6gbofMw9qp290a1ZKqTZdjiiEAUeXfxK/q3NDg+q6FRPQrPunesgEEI75TwUqGWOrO4tjLsRfSAciamzDJhQwA4wz6CgQhMixtPTyrVI9XWarYfh/jn30DRbTSVp18bmM2B4X5W8sqnckWBxGALTsOVLQyyVS58fBfgYXXjaom17nd/q0DJ1D6Bat1XS+SvWAOuCffAxE+Mqqv2+GD0USfpgmRXaCBmBbCOc4eBojKleAEOT4F1quKpg7dXanYGiOpFwytctJhWJs4GPsWXNtkHIoc3mgsobrUcyXo3TlHRXte+yeOgJP91eA7C8/vRBCqkYiLGqqajSWD5HoCIR3HEXL+GcuYAJVhkHXhkoz0n2dfCWQ6wrNLCJ6itbmVknXJqglaqww7yV9qlxKBsxmXU7dFLHq99KGjNiUd7TaMjQWE+JsSBJxs4kE+gF+rHS9Bq1RL6nqLMAHTEk2F0bsgw8FgVXErZlZ8o096Iy/jRAqOFBufI8d1rEYLSj/lu8aN4sBmh2zZMT50LXZ6dTgDCIHFbz4CFPRKLc1kRokU1t4ygMWBZJA+AA0p3A+96AdMsIVkoJu2cY1bDSO42rI1LYtQTyMcW+NAcA=
+    properties :
+     x : 77
+     y : 313
+     width : 207
+     height : 188
+    rows :
+     -
+       internal_properties : CAAAAAgAAABxBJ5ugKZs13JafwoE/Hw+rI+uTkv8hKcfABXIv+kQcVbnp/3jFOp9AKw6mUyRAFEtMVsB8WEgeXQx7WxC5dceMr67qzK5Ihnw+6SkEI0FDYsMd1iSkwh3YXBfrUAgiMET/Ro6E4vLBHdjJ0fcOouh7q3p+05V
+       controls :
+        -
+          name : LIB_TitreAction5
+          identifier : 0x25ef31e301af5a32
+          internal_properties : CAAAAAgAAAB6t+EnuG5/nZSKWO2X4HxBPaCe3b5I3drgW3dzeaZJArjDeBGWV3eJNTNLVQi4H3VSclczlsRSc6VadheONe5QG1UW+7gEnrF/WXsSuvyQuIePG/ZnNzo5Ik3NuL2nNGGFBfO2sFXWex1ZzAEBx2r10gE8p1+SX/PTMfjM4dYSZbeKTLeJ6nDquQgWOnU9fO0l4JMp00JHFa6/1FxvLQVsefQ1LrKfSuqM4iWCyhOi74mpiPT2BOEYd80W+BIQ9Cc/GejS/EUBlJqSym7ySxU7pAgFfjqYd7LnS+3I/Y9oy4KLY7SW+MQX9lkl0+1RWQ8dNo7NOZ1/YDiGih++kOdDG7M/kLYBv7BTcJgj/sYY33YcyM7NQFSXzlvTM8Y6sj1A0yJMDFTK9j1PrETdFCT4zRJVOosv9jS8/lKQTp9g/b7yJf6iTwBpHWACGaqGTC+6QyvDO+jrb9+9Kkm7ux8JXwQSSuspt1xqGROXtIyLBa5HDiNLAq9+07wcpp4+6xqYlL/eYk402truehZks8muwT9pV+HjE9I=
+          properties :
+           x : 2
+           y : 97
+           width : 205
+           height : 91
+          type : 3
+          layout :
+           -
+             x : 79
+             y : 410
+             width : 205
+             height : 91
+           -
+             x : 112
+             y : 614
+             width : 367
+             height : 86
+          code_elements :
+           type_code : 2
+           p_codes : []
+        -
+          name : BTN_VUL
+          identifier : 0x25ef5cd603951e51
+          internal_properties : CAAAAAgAAADdZrhoAjkd0p6JGl/CSqxMdHs69SHXmN/VE6AVsQWU8d9c9q1LRCTNgoDv6IDIRrRDqsnDNCSq7OCBWWkaR5sanoljdFxhdUMNjHdAYvPPu/BnqM5VN57q73Iyoo1jyUGWEzIpNi4hNNUtm7KcZB9Jhw7Sm7s38/1ck/SVTleWwE5dI6zohK3SSsv7q0HsswndQBk3QyGII4b3402p5Os/5RNEI6YaudeZqT1IPJw0NVnrnBrtfClXopPJjiDKzKjKMVyufBpN1DpfIBFjKOmKh9kMJFojTTBRpJ866SysPSisdbGpO85EovRlBUtSa6JrMKfUycbubH01MjgITE+Ewyv0SfXbL3bqqZqI2heeMe+bmQITynXNZrb3lq3KfVicZoHT0lPCHQr6EOW4wDfwO4+w5iDbI+ESCiisSRNnE0TegJeIP2u1eEWl8DrFcQHxXpZfx8f4cbrdC1IZEaVlKOj2a/JspnV2gxYghAvstq2aIUmYcSNKqc/YBYunA0yB3ISfOqDuOM/+eJySPcRNPg5Ww+MHpmNeT79oIFZ4RfxVmKBSZ4Jcae6Zs00c/OrB+GXv1elvhUs4qg7no/pwvEvKiHS+ypu9V+uIL+Bz86/DSpzZrvSskxHpc14GxBnk9rnAExKwl6cGWI4gH7dI33hLt4eqz158uxRxEyFvuC9rpatCdOMuXOimmXATO8hBUN4X0npC8HR/XnDY6ciYkAvIBzm3Vek56KjA1+YAA37dTAZqr9MxoN961pe9iZorqFsd58GVtijUQTkx+sVke1nsgI47dmquPLwMA8f4+2zKHmYhQYhB6QJ8zx1BpNcnsMri5NU7xv/eGr6AFrKCMpFDkmkCfBLgYdO0L9QniPM+6RgiRgQSDN2Ni87gzBNlN+7Gj2qGieFQvFD055AJKuk/xtj5Ca8n4wfB6i1M045Nb+38FhicUTuzZR2BwTBJJYhsP/nSr6zlk9CdLZU8FGZdNXVshJLEywLUiS/JJXp1FoCZstRV
+          properties :
+           x : 73
+           y : 12
+           width : 60
+           height : 76
+          type : 4
+          layout :
+           -
+             x : 150
+             y : 325
+             width : 60
+             height : 76
+           -
+             x : 255
+             y : 503
+             width : 81
+             height : 81
+          code_elements :
+           type_code : 4
+           p_codes :
+            -
+              code : |1+
+               // le clic dans la ZML exécutera le code de clic de ce bouton
+               // A Faire : Ajoutez le code sur le clic de ce bouton
+               Ouvre(FEN_Menu_Cyberguard)
+              type : 18
+            -
+              type : 161
+              enabled : false
+    type : 97
+    layout :
+     -
+       x : 77
+       y : 313
+       width : 207
+       height : 188
+     -
+       x : 112
+       y : 468
+       width : 368
+       height : 232
+    controls : []
+    code_elements :
+     type_code : 126
+     p_codes :
+      -
+        code : |1+
+         // Le clic sur la ZML execute simplement le code du bouton associé
+         ExécuteTraitement(BTN_VUL, trtClic)
+         
+        type : 33
+      -
+        type : 222
+        enabled : false
+      -
+        type : 223
+        enabled : false
+ actionbar :
+  name : ACTB_ActionBar
+  identifier : 0x25ef31e301b15a32
+  internal_properties : CAAAAAgAAAAB34PHPm3bfcxXdesSAArXZkDxl65z8ULHLjQCaGopgWZWJybXJudJPCmMi7QSTBCBz/bJeByccNM3tFjeFOxheXk2WnCqaIqz1cjDEnn6YRW73WFaqT5IMbh5y+2LILRVTeVVXKORQ8vGoPmY0ss2bvPbVlFQ5eSFyPgTgzBou2Sh3zkfeFQLp0uDYDevOEL63G2HcENoFOm68/eB+nqa3L1FyUAywPjxpD7HwcOfqufmXomXwmzBegNTxmWlqD09caooJeI+8R8NDYg3y7S8VLS5qpBCIE3pz8ETu8CovF/ngmsywg7/zT7/0OaIm0cnHgiKs6Ng8axY8A==
+  controls : []
+  code_elements :
+   type_code : 125
+   p_codes :
+    -
+      type : 229
+      enabled : false
+    -
+      type : 239
+      enabled : false
+    -
+      type : 240
+      enabled : false
+ menu :
+  name : _Menu
+  identifier : 0x29f8144500a4e5ba
+  internal_properties : CAAAAAgAAAByVTsSr3/syDi1St8xf8fgHxdhV816G1q5zyODGkOm1npuSkYo5g/jXWoWFFK2H3oUBZtHLsT5rfRCnVFNNS0taWG501M84VhyiY2gqfWqbb5TaLNBc7/5X5PbRqVlZ5a3p7SznWjoHPbzt8FGrVw2pkxQ2AMTSCoEquPAoSRRZmCgf0llwPSIdkz+fkQsa3yCb/aARC1IuAmTNbEAkdknQHeBdhsRIWlMefD05RVbqvlMGzysSB4KUPZWTHHaQPB4ObHU/5KQ/VjN8jyQaoRgKuGxrJ5V23KTuMr/Zw==
+  options : []
+ layout :
+  -
+    widthClient : 360
+    heightClient : 569
+  -
+    widthClient : 593
+    heightClient : 811
+ languages :
+  - fr-FR
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAABKff4sxysR+9kg8GIJ708iDvb5GJxqytSUKL54fomJ9xlu42EWUFv/+en+BSQDmdB2krqVslwL/1eyQDVw8sffQk7lF3aDfZNzV/+zROsnKAy1jaSejRR5UgML
+ code_elements :
+  type_code : 1
+  p_codes :
+   -
+     code : |1+
+      PROCEDURE MaFenêtre()
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+ code_parameters :
+  internal_properties : CAAAAAgAAADO+XzGzbGTvUvx2L05YwwtrndNL0/9ind37qU+b3KLIKT68FFd+30t2hNyBB56mVVXCYws2VkEsROo1QA3iJVf1nlBvV4YAGJuEjMy/bsx
+  original_name : _11
+resources :
+ string_res :
+  identifier : 0x15ef229300c596c5
+  internal_properties : CAAAAAgAAADgUlNt7lkdy9zC0ssAHAj5jkrYPR3xSXWWNc+yxDVcit4ECFn5h+Owg/gfQURzLifnbw==
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

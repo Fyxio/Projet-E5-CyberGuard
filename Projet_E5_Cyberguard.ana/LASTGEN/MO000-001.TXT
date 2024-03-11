@@ -1,0 +1,10 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+Utilisateur		NFI		nouveau fichier
+Vulnérabilités		NFI		nouveau fichier
+Menaces		NFI		nouveau fichier
+Inventaire_des_actifs		NFI		nouveau fichier
+Evaluation_des_risques		NFI		nouveau fichier
+Contrainte_Vulnérabilités_Evaluation_des_risques		NWL	Vulnérabilités (ID_Vulnérabilités) et Evaluation_des_risques (ID_Vulnérabilités)	Nouvelle liaison entre les fichiers Vulnérabilités (ID_Vulnérabilités) et Evaluation_des_risques (ID_Vulnérabilités)
+Contrainte_Menaces_Evaluation_des_risques		NWL	Menaces (ID_Menaces) et Evaluation_des_risques (ID_Menaces)	Nouvelle liaison entre les fichiers Menaces (ID_Menaces) et Evaluation_des_risques (ID_Menaces)
+Contrainte_Inventaire_des_actifs_Evaluation_des_risques		NWL	Inventaire_des_actifs (ID_Actifs) et Evaluation_des_risques (ID_Actifs)	Nouvelle liaison entre les fichiers Inventaire_des_actifs (ID_Actifs) et Evaluation_des_risques (ID_Actifs)
+Contrainte_Evaluation_des_risques_Utilisateur		NWL	Utilisateur (ID_Utilisateur) et Evaluation_des_risques (ID_Utilisateur)	Nouvelle liaison entre les fichiers Utilisateur (ID_Utilisateur) et Evaluation_des_risques (ID_Utilisateur)
