@@ -10,7 +10,7 @@ info :
 window :
  name : FEN_GestionMenacesVulnerabilites_Cyberguard
  identifier : 0x25ef31e301a85a32
- internal_properties : CAAAAAgAAACiP7hKekkoKFRZv2oE9kF/w/SacQbdahhj4tqpLq8UPkMKhajPJ+0jBCm0JScfJgkPhKKOa9prcJZEpCQUInZUdeaByyukZ1vNE34voS1ElQNtYljA97Dk6nGHQ8MVuFuCvI3prdhbHeLC485Rc3GLNpEIY/u+oewZr82gGyIY8vEoene5xl2FAIr20ZCduf4df7wkvTe8gHnxozLwP3/rjbS3elYeGpdZva83xZg9J40sYBOP6BgPaRS4kxDElzG/dRljA2t5WfS5kO8ZjcuIeDpIQV5tHdb55s1KlEE9UETuFaLZdAM/hJtXjoSjSl+KPq0Es7CAIvU7CJPCJtScElyRloYYh3+OnvVwsWIlH6dJsX+aZlGIbH+EdqJChT8E+iIf8WY5xEw0WdLYHQgqoXvSUmRsGmWkhgafXxx0plnx0xUFLKw5uKYx9ZaawB3EkIPmH3P11qV2fQSu1IiyrVpkJdo/a+8eBQtQ7jkwks0s+3WkTWrNxmZItV+pe1alWQya9F88GkuGr6LdWCVqZBp0cux8nIBpJoKbGy0Aa7RdguWz7mZcKOvs2+bBteQPwbZ/zB1/NP9Kth2hep90CyNmr1SN05W/ijy01wo2hu83A38zF6YTqIZDvUtslFLVT/d5PCGPQuZlTHr0EDpCrwRqqwwiMNrpWoSRv1DsN+TggydwL6hdNAX5iCiUbvAcjUTwe4aiaTbamkqRuoolk24lv4ljotwZCGWe1dU7xyaP0vDV0cc1C4Jgr74EyqNKiVSXTjaUIuIX9HC06SKi2RihraXDwBicpebCQU/LA7ALkWZBFn8ZApMftmfgqNwp+Kkoj37wEr9sSKVXgSenQH9+2Coj8rvWAwd0u6lu0GF+o2pp//DdcOp663dZW6u0h1Tl4FGyQmuNAjiwbEp8+gRyo73ojeZxkduyMxuz9t/zBLDS289Zr+afuIshWW2qwSOa9IavOqErHSwYFCeQm6Dzyu6rifzCoZnmrQuhDVxxkMPDArgv3v3zCVGUWR+vuyyS/g7zg/uYG7A4dxmVxIPZhAXFoNm9iGjPk+8ZMreyHlHoo2JFj3n3uotVhPGt2RpXxf8DuUgFnf1zGZdhXy8M4YH3OEo457t8aLTx2Lbno5NNuTp8OskBcMxrH7fCAfsQ9s6OBCFCcbEHJRdQasGQHEwJX481JkYRMSngnz62X3CjKRSX8k/0hUEffY6dWra/qSt93FkZuSeloDHo53/pPPvhdTC1jiJvqOn4R3uxaAJBa9zGBA0mIOsQ7mVw33OyKKzl6LMAI9YYo2ATb0zWp4AcLO5vMzTjUZSSEm2Q2cSY5giVGsEX1kcywX8J5SIk0WumBie4rv2UaS+4I6sJKshU1Y1OneJp8vaEKbk3WGeXDmV+kdIc8xx04IWzC3sBX31sBcrhXqwaZnw8xl1NLHdEwbszPq/T+gWrKd06n0g=
+ internal_properties : CAAAAAgAAABl3jwZW/6S0SPkQeo5rEnXCHCxfqdBFEI5EicP5h+0/szzpQdxJujtl7SywZzXb2vQO9UW0FgEkkf/uD86ArVa+iJLLcsEKrS11mk2AlBu+EnIFAhWAPvM/6j2mvaHaN2GtAZHG8TdB/MJ355ROvGcVz5v/Jg8ZwI6L43oZCk4NcZu7f9/YlNDIiR4VTqHvzphrfQzE2YwrJyrroUNI+Obx86elyYnJDrTr7ZHfyYKScUHE50oLSuJ7fme181MR17rYOXeXEaVJQhoTMhhjzyL0oo2YADJvi+GF89E++g1VqftaMrdmee1k3UibTSOFOBCHAjZNZjHpzuYrrwgGcqtneHRY37yTYr44AfA1PYLHaZLMcYvEfW4DjyJ4P3lMc3W4NJKdIWUUmzOm+URIOJa70FVl5rNerk3rS8owfQouaVAQyZCLcPgmr1y5fQibxUMtlM2cftchWika6RTUAk1rdDA6e8EPik8/Hh6G6Bh8K/IGiHewnn4mftofeum+KWpV0X2REnC6ecywtducd/E1g7RK/wRbl3DHV+z4O9E6otOshht/A+aFU1ZMSMqtMd1Yo9srrjqFVCp1CJaQwggHniAVWNB0G8qiv6ck2yXDZIfrfAvh8RiCZq6kj0dPU3Ex9H+XPp8pca8Ap5RNJ4ZEZlvWX918LwXfodeWolAK788MkqbwZ38Qi+x+hIICoxuA61Z0kL3bttpKoFheGqPT1v2pRQcjutxaq0td3GzLAECvjfmJDkSrY7I7JSUFN4RQHqghXu+p6hHaKNIH36BZAO9YMYO7u2qafanl987Do24Hys+7TMwXO8TaUnAVPPs46nX4i96ERd2jPQHb6Ww0yr8118yGN4OWb0L4wP66cxhCXeK0qxw4pbG0NMjneaXejR0eYze+VVhEnvQhjDthxlowETdk0fZV0m5q9l5SWrG3iMVzJnQncZZqeNLIRLjehE7u7uz7z3ln/mUBh01qicFR7EM/VFIzf/NHTGP/mEmZH58pYDoHkMTsAEmS+BceJRHv1EjbO/CC386W7lWOZCdc2L8rCDN7ii0h301aQbhklCRPuSM/QU145n52sQk4AA+NmpJ8lwL1TzXJ4P0rKwWutTwIB0A/RNduui3r2Gyf8SOJJ5tslPr+TSNCQZlhGnzDePGbwuqp5CdNfF9CYBieV0MO4ofXrBwCR+GtkffW9cgMP7I1CMqlr8f6e8ssbYwypa/c0VD7zLva4k0Bmsh7kecHESZijTclhj8ubbXi+zgXpEWSXRV9XUVApGJ3pyRN6VByP2Mmr4tubxd3GvYchLG34Cqt2ZqlYagq5jr60MXIyweftcPkUeoN2ZCzsQQtSN1fN4NS/TUxbCw2//35gxEoDcvjbzUKHhKzaP2ELAr9PbPVQalu06YGT7eZQBZwxVo3F4b2JkcScLNwGa4YSGX6Ry9vRD1jS1/zfChiLmzygzN
  properties :
   width : 360
   height : 569
@@ -58,14 +58,14 @@ window :
           identifier : 0x25ef5c4e03930d53
           internal_properties : CAAAAAgAAABdwwVXH3frtEF/+nJFPYJmw0kscoSGmkdrf87mmudNfKDPqZjOgFDXxeqiu/dF5sRxvc0wnnwMYW8Gtq4cBm8rb7yUQ/jOu+iqIS4+deJIVc4Tv2Bd/gRTqYpiFbaRwzqUJS0G6f37ulvpCRTEq1fc6XrCyp1nOuJCe1Ct0IHK0gjuIwAI7erhKeuai9BJk1oUcIU1WsSKTjKJLOT6VOQnCwgBy4DI/gIl0f1DyoFy23h2I7VDuBV1fjxRf/Mjn0AJ37i44J7TYFA6JRVOMrMZwfmFs610x0MRrd877R3pDvBeRKdRX5t4lNmGJ5+NenbCTtfe3Lew6/uWCvDhrCKzZPOJZemZYRZmAntloNtOnppkJ8UZ1eq+dlFhB94GfBufwmPYRbmVa95vjGvuu8bWMED/CxgvK7BE74djLBsNBiSqqeqA59u5j/HIAZIeGqti/ekRCe+cSSaUvXxigo+jtnLgljteeFbAfbhBPCEsmDRmXgt6J/xU2wQWZZvBytdKXJ+Bn/IG61ggXV4QnUnuQZ535fBR8lx/uebwZFxRtKUNUbifCXr7zKwKoZ+kx/kM0IDzLBl1jmjKi8Rp421HkTXZiim4Bo5q2Swogz5+2rxl4TJ8ko6LqiM6SdiiHS73shaiGG5y1Ci8wfjui/Cn/oLIjQi65Q0JbRnFWw9+iyTtYiEdCltn01ZFkfxtmO0i2IWhjzxCGZlLbZDcB52zRWtthQT1Kco65FG8Z8hF/mUBu1ppqdM4t+3HKNVd/lFMftprSqeJf7X6uDfTuoDpwLEPvC9xblEb/ruaXZ8pcIN6NZKq+UKaWkyHV5njD6p8+pkApY3pD2IqmaYUqDNHHT2kcCxGxj+zWwDY9zZAy1gqRupxyHBHZW3qn15OO7pW0TXuuoaARETadXR8qd2Uc+sixAGXwc4KwaT/jNVdJqfRpuPNfn4JOv20wR0nBh+42fu1hoFOUiuHBuCLOi5z7zdpmr1PKsaEmKSYROcHMFqRruoMNLUV8w==
           properties :
-           x : 73
+           x : 74
            y : 15
            width : 60
            height : 76
           type : 4
           layout :
            -
-             x : 150
+             x : 151
              y : 85
              width : 60
              height : 76
@@ -81,7 +81,7 @@ window :
               code : |1+
                // le clic dans la ZML exécutera le code de clic de ce bouton
                // A Faire : Ajoutez le code sur le clic de ce bouton
-               Ouvre(FEN_Menu_Cyberguard)
+               Ouvre(FEN_Gestion_menaces)
               type : 18
             -
               type : 161
@@ -156,14 +156,14 @@ window :
           identifier : 0x25ef5cd603951e51
           internal_properties : CAAAAAgAAADdZrhoAjkd0p6JGl/CSqxMdHs69SHXmN/VE6AVsQWU8d9c9q1LRCTNgoDv6IDIRrRDqsnDNCSq7OCBWWkaR5sanoljdFxhdUMNjHdAYvPPu/BnqM5VN57q73Iyoo1jyUGWEzIpNi4hNNUtm7KcZB9Jhw7Sm7s38/1ck/SVTleWwE5dI6zohK3SSsv7q0HsswndQBk3QyGII4b3402p5Os/5RNEI6YaudeZqT1IPJw0NVnrnBrtfClXopPJjiDKzKjKMVyufBpN1DpfIBFjKOmKh9kMJFojTTBRpJ866SysPSisdbGpO85EovRlBUtSa6JrMKfUycbubH01MjgITE+Ewyv0SfXbL3bqqZqI2heeMe+bmQITynXNZrb3lq3KfVicZoHT0lPCHQr6EOW4wDfwO4+w5iDbI+ESCiisSRNnE0TegJeIP2u1eEWl8DrFcQHxXpZfx8f4cbrdC1IZEaVlKOj2a/JspnV2gxYghAvstq2aIUmYcSNKqc/YBYunA0yB3ISfOqDuOM/+eJySPcRNPg5Ww+MHpmNeT79oIFZ4RfxVmKBSZ4Jcae6Zs00c/OrB+GXv1elvhUs4qg7no/pwvEvKiHS+ypu9V+uIL+Bz86/DSpzZrvSskxHpc14GxBnk9rnAExKwl6cGWI4gH7dI33hLt4eqz158uxRxEyFvuC9rpatCdOMuXOimmXATO8hBUN4X0npC8HR/XnDY6ciYkAvIBzm3Vek56KjA1+YAA37dTAZqr9MxoN961pe9iZorqFsd58GVtijUQTkx+sVke1nsgI47dmquPLwMA8f4+2zKHmYhQYhB6QJ8zx1BpNcnsMri5NU7xv/eGr6AFrKCMpFDkmkCfBLgYdO0L9QniPM+6RgiRgQSDN2Ni87gzBNlN+7Gj2qGieFQvFD055AJKuk/xtj5Ca8n4wfB6i1M045Nb+38FhicUTuzZR2BwTBJJYhsP/nSr6zlk9CdLZU8FGZdNXVshJLEywLUiS/JJXp1FoCZstRV
           properties :
-           x : 73
+           x : 74
            y : 12
            width : 60
            height : 76
           type : 4
           layout :
            -
-             x : 150
+             x : 151
              y : 325
              width : 60
              height : 76
@@ -179,7 +179,7 @@ window :
               code : |1+
                // le clic dans la ZML exécutera le code de clic de ce bouton
                // A Faire : Ajoutez le code sur le clic de ce bouton
-               Ouvre(FEN_Menu_Cyberguard)
+               Ouvre(FEN_Gestion_vulnérabilités)
               type : 18
             -
               type : 161

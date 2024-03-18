@@ -1,0 +1,68 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : FEN_Gestion_vulnérabilités
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : FEN_Gestion_vulnérabilités
+ identifier : 0x25f8112f2089e715
+ internal_properties : CAAAAAgAAAC1P1BW6yGaFg45kmB+JAUO2OcG89bnn8gIb2RKdv9z52fhMKmR5iP5XXKhaknUKW9L+CKfy/85tGAHZdJwe9Ox8IgqkLItTl9iSceoL9o2li5o2Hp87w46ZK9LXSpz+516jOYZatD6JDUO3cN7AP0K9rT9kDLY4W/kU3BYcyFuOcqzgyohPk/rWFGJL/LWRBPRsGMhwApyf5Kf+oywn6NSFVfHXrcoLHXsPi43bB1WP1uTBSRfNAJbO0Zh1/jbLlR4Eb24IRcuOSqOnIJE3JpHg9FiM6BP3mFs4bCQxxj3ArcnQdIu7SBcKy1WRakjNUu34p/DFzFrpPFhCLA7LGNWIWMYBUMOmSbkFDlxyVyj/yl6ZJSF7iOu59V+1pveRqvilMqLZU7DP0R8t/iU7Lz/YOD3R5WaYE0cwY8FwxIL5Q1VU01cYFYl9xiOiN5h2G5H5Cjo1RkQjbM8wE2bTysmFMQznk1msnekXElroCvOy5p7O3FoYYdLDxUnh1rq/YVX8peERJFNRjSQ6iaz13+I7kM6G5EiQsMohpGq717z38wb0nJqmO8ywfWFg7qTrUGoPJjZDDrtC5a1f0gNvglg+bklElNojzdG1Pin8mOGhgjA/AzJ5gsri3Wc8RblMTAphSc9kLLsgIf1g8jDNGMub3+PLjnEnUEW+AHCeejwBSFyxT8LLNUaIgDUPYOhQHAv/ZVExI0xCtlY42PvEl0LGhFtjzUGUpCbRe1SZGkEfIy11S8SZhA05QXXqdJ30PYI3V1cGreG8UGAQo4hIrVkPj8y3eiMcxOC446mW7C+33tqXNxylRtY9NJZILcvk9auNfaLMMueDBysTtr7YSmPVbaD0oR3dIhtU7LvtZRHRGc9EkFkDeNDTRrR4ej/O+tFLpFOybq5kWBH6s9BPS7Z52VZueo9wRrlnnNEEKPdeTuNmWQNU2zaAYI31FuzF3adWpY=
+ properties :
+  width : 360
+  height : 569
+  heightMin : 650
+ controls : []
+ actionbar :
+  name : ACTB_ActionBar
+  identifier : 0x25f8112f208ae715
+  internal_properties : CAAAAAgAAAD35X+OeCaUxxWrGfq4vMWaRkvTCAkQD31GLK0TsIe6+B8Vz4pb7R3zW1YjOWn/prdvEeR3Tm7zESeud4pG92LuWt2/2Kn+hszOKeJGwM6QtoJl5dZOFK0EXuhyzto28kmvTaAr7RvQSjCpqlnXCOvy4GRWFCqYX14xCo03MMiCJPAX8igKTbsjbv4YpD+4hi6iBPvBMmzhz81JRo5WXC8djpWYjGMu/KgefRKVXBMirfCwb1VdNndpgYqmXc85YmrDnwIgr8LL1tcEpNGwP+6M3KJtW0Lxvq4g0KY+cwnVb+SqN3DLEKCkS0XEUZhTfLvbddMUE0aJqVM=
+  controls : []
+  code_elements :
+   type_code : 125
+   p_codes :
+    -
+      type : 229
+      enabled : false
+    -
+      type : 239
+      enabled : false
+    -
+      type : 240
+      enabled : false
+ menu :
+  name : _Menu
+  identifier : 0x29f8144500a4e5ba
+  internal_properties : CAAAAAgAAAByVTsSr3/syDi1St8xf8fgHxdhV816G1q5zyODGkOm1npuSkYo5g/jXWoWFFK2H3oUBZtHLsT5rfRCnVFNNS0taWG501M84VhyiY2gqfWqbb5TaLNBc7/5X5PbRqVlZ5a3p7SznWjoHPbzt8FGrVw2pkxQ2AMTSCoEquPAoSRRZmCgf0llwPSIdkz+fkQsa3yCb/aARC1IuAmTNbEAkdknQHeBdhsRIWlMefD05RVbqvlMGzysSB4KUPZWTHHaQPB4ObHU/5KQ/VjN8jyQaoRgKuGxrJ5V23KTuMr/Zw==
+  options : []
+ languages :
+  - fr-FR
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAABKff4sxysR+9kg8GIJ708iDvb5GJxqytSUKL54fomJ9xlu42EWUFv/+en+BSQDmdB2krqVslwL/1eyQDVw8sffQk7lF3aDfZNzV/+zROsnKAy1jaSejRR5UgML
+ code_elements :
+  type_code : 1
+  p_codes :
+   -
+     code : |1+
+      PROCEDURE MaFenêtre()
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+ code_parameters :
+  internal_properties : CAAAAAgAAADO+XzGzbGTvUvx2L05YwwtrndNL0/9ind37qU+b3KLIKT68FFd+30t2hNyBB56mVVXCYws2VkEsROo1QA3iJVf1nlBvV4YAGJuEjMy/bsx
+  original_name : _11
+resources :
+ string_res :
+  identifier : 0x15f8110c014d60ae
+  internal_properties : CAAAAAgAAADgUlNt7lkdy9zC0ssAHAj5jkrYPR3xSXWWNc+yxDVcit4ECFn5h+Owg/gfQURzLifnbw==
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe
