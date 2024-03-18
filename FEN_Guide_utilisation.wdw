@@ -19,11 +19,11 @@ window :
   -
     name : LIB_SousTitreAppli
     identifier : 0x25f81022201ace9e
-    internal_properties : CAAAAAgAAACK8DOi3mr8747AJWvPd3l4mKOVZzpxpBzuY017C7dFHKvOzK71P1v7LhpgclDdNOv601ZdUVKFyCx9LK+shmxGcaIAcLUBq7AgdteY+qNQemvifxrW7zHFf+guV6vtPuT7FSBnZ7+O9mR5C6D1RfDYwKYfy0dDIXfzj3ntIYLeZFzta54EgacHs6keHcNiPetKWl7ZTACl4RYK89pj8HBlnZFlntbx+65lBGtuRMV0U71Zobj77KkFddu6uBit+u1dATsJ4RR5akeWDPDlmMz54ZOponbRCodFqFcB44djdm3bDvd+qP+LgaoWofqlP0kcljku0v+umGuvHytVfWMwxQWknXt5BmSQIGDOm6C6tz0hTzccmO0RRsr5465TnPQ/toKZhiIulSOX+IO/0UPIf9PAnh6M5N56SsUcH+TiYqoQjZPrfPOngrfZ+OCv25FvOY9uiAtGc7DK5mR+1Fibcew0NYTcd42Lm3MuuhYF7f419rTdoeCiJrmhG9va+D9CtWdQ
+    internal_properties : CAAAAAgAAABXfDSYUXcUpw+tM2WJpL6XrUExDO7nQ3zNZvxecysd7R/SIqMQCGjGgT6BWvA9CHXYOQEKJe1OilG2eDo+dL3YVY+2qHLFHwzqZk2rkDES/Dk+pq/JMym3qN4e+p9SK8jfhq8f6cEuNmR/rcBuDLLLfb2+hXgVACuaOhFKhlV2wqePYoAA7MzGcxOSMym2xvbCxsB3yXuFO9Z7TsESEAUjJ7CTl3uoE/SYKIkIHoJ0DGXjmIvRULpgn9e4stKmpdUoIG93bO1tnKOtSwhzyl5QS80ZsQLgyxw5snn+wl5minFDFky+8vz8gWlysShdM5IIZs/xXYJFevU93IHIbM4RoUpej5d3m+LTOB/eg4DbZqAQvc0WwoSGIvl0kqu4CBMeorMzGat+k8/rVh/zWroV9i851ovnHyGV8RAcSCHWrHM6Qn8vhtUM9tzv5SQRzvg4gpK12imW3geoAVF53GX6igCgZ6s//EPZ/9KRIosR2Q2zNWtNn0O2fDuVqvXNphfs8ouR/6hYLFHguB8nAvkkzLVbyWyToA2XenJ6AbOScnd7rHII4FwQF6At9DsTcJaub6dUQPvH9aLK/ZbCG4E51HgALvDROax+OctqxWGMpvH1QVZl53k76lWCp87d82BQne1LMoMQRDvZDweCWwZm8WuH/IPu8DRbbNpgQAu8IzBxPt15PP4f8NAgjl+4QkcGTsaRUxZCA+GTXoMKfKOSefLbSK1H7oLweBo7hCDnGnvw+KmFlN2Ka3vFT+OkCSBRDiZKfR+8GKoimUbzz2dqnWZD8GQCwDafxhtejRrgsHy/BStM/YgTA8LWjycWYxbAdBuyMGMO/V0Y9P9aR20mJAWjwdUGieIlOlPL1ttAz5TA2l/O/cM9wTbO
     properties :
-     x : 22
-     y : 268
-     width : 316
+     x : 45
+     y : 215
+     width : 270
      height : 210
     type : 3
     code_elements :
@@ -44,6 +44,26 @@ window :
      p_codes :
       -
         type : 18
+        enabled : false
+  -
+    name : BTN_Connexion1
+    identifier : 0x25f8368201e4b57f
+    internal_properties : CAAAAAgAAAAw6X6rS5tl5BOiACtiXLVryNKKLmlKp4a7bUjkClgGOcz85GM9efDceQvUiohMIGRCacqCkzPbQwBTOslvUrpP8gTpA8NH3IjY1E8vSzrGjPd69Xg6Ec5gDVRC54hxN1C4S42nNw7Hv2KrjKnTZE7Cl8vO8x+iCYPaYZ6l9yVYmts+iretd8lOziNz3nH6JSZxyaBT/5jTQpe9SPADgU+Rloc4BnMcYpBBWqChcdJGCOjWzMbl/HSuORrsl7seTd10dWklpdg3R63zWXoC7ZoCgaoJizlsBEmBVLpnyYMj27NxmGY7Uyn0Zzl31E4pcNeSuEzymkGUzvLR9+VVAU8SPfvBW0xkJo8d0KkZS04QAKHqCDD3/BOCpiw6j2VNEC9EyGAhgvoBSLdoDmBcg7/VtCKIHtkqlofVTZPnxznyIQ7E9HXFi04cSgDmRIoSJGzMlf2NFhWMaYsQtZXh8xszWEN6IVGyTUBod+CIlo+K1rL9I9n27Vtz9zCnLhpPXs+WB/dDvTuIc++tXWwjF+qwPrJ0SYj8XBUKm5+pH3dVRz9EPDVouov3zH1bAiuRewS568hYaxiEybmHbXuiCRXt0Vs/HkkweKxv18l/G5l/cUVbRu/Yab9TXS7i9bKbzsUvB2R0TV0LcHjd/PUevCCITG/UDCGOrHOxVIBnJAuHvAejLYdmOJETt7+QwTFclaeOw9jzQfNwmrE851eNMXt1jNMZMjMCiwPA7g3jb4bJz5Wi8JFRdibFee+Z7sOgvAfu+8Vi5I4OsT2k8PcByc9ggBx5dxfoIXoYqq71+mNn8Ya4IZJfdcMbZcBAb5uBeCGKNAoRGFAWnWFfa3oFfmDqxDfVeY7xhqprmydxZvtvHmMNC8cR+Hr/WIB4Y5E0QpCp/d202tImjqAq74wM+xv2wsOxLcntksAVSeoNgBFJ5CJPV47P1A==
+    properties :
+     x : 25
+     y : 475
+     width : 311
+     height : 41
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         NavigateurLanceAppli("https://github.com/Fyxio/Cyberguard")
+        type : 18
+      -
+        type : 161
         enabled : false
  actionbar :
   name : ACTB_ActionBar
