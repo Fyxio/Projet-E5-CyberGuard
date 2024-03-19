@@ -1,0 +1,3 @@
+//MO010-011.TXT ANA00010 TO ANA00011
+Utilisateur		TAR	1109	nouvelle taille enregistrement : 1109
+Utilisateur	Statut	RUB-		la rubrique Statut est supprimée

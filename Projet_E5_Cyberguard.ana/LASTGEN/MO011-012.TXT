@@ -1,0 +1,3 @@
+//MO011-012.TXT ANA00011 TO ANA00012
+Utilisateur		TAR	1160	nouvelle taille enregistrement : 1160
+Utilisateur	Statut	RUB+		Statut est une nouvelle rubrique

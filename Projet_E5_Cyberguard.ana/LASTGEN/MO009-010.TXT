@@ -1,0 +1,5 @@
+//MO009-010.TXT ANA00009 TO ANA00010
+Utilisateur		TAR	1365	nouvelle taille enregistrement : 1365
+Utilisateur	Statut	RUB+		Statut est une nouvelle rubrique
+Utilisateur	Administrateur	RUB-		la rubrique Administrateur est supprimée
+Utilisateur	Utilisateur	RUB-		la rubrique Utilisateur est supprimée
