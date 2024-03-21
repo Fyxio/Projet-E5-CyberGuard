@@ -1,3 +1,3 @@
-//MO012-013.TXT ANA00012 TO ANA00013
-Utilisateur		TAR	1109	nouvelle taille enregistrement : 1109
-Utilisateur	Statut	RUB-		la rubrique Statut est supprimée
+//MO013-014.TXT ANA00013 TO ANA00014
+Utilisateur		TAR	1365	nouvelle taille enregistrement : 1365
+Utilisateur	Statut_Utilisateur	RUB+		Statut_Utilisateur est une nouvelle rubrique
