@@ -73,13 +73,13 @@ project :
      physical_name : .\FEN_Guide_utilisation.wdw
      type : 2
    -
-     name : FEN_Gestion_menaces
+     name : FEN_Gestion_Menaces
      identifier : 0x45f810acb915e8f3
      internal_properties : CAAAAAgAAAA1ER0BvpuTTARhxWGZIKQxvSqwkBBnOBKLPVD44FXBP4lLhuIsVSfxad7YIOAQ6NggIA==
      physical_name : .\FEN_Gestion_menaces.wdw
      type : 2
    -
-     name : FEN_Gestion_vulnérabilités
+     name : FEN_Gestion_Vulnérabilités
      identifier : 0x45f81119bb7f9163
      internal_properties : CAAAAAgAAAB60KLmxYKqtb/oXcHsS0DsNAWDiztiouiL9XGYbrdlg0210j8/vK144EW/Ofn3g3Vf5w==
      physical_name : .\FEN_Gestion_vulnérabilités.wdw
@@ -119,6 +119,30 @@ project :
      identifier : 0x45ef0bd64571b603
      internal_properties : CAAAAAgAAACwjug086gAGyE1f5rw71/67rGN3ddd0JyidolCv3Ym4m78K5vRdELphrslkxPNtSuVnQ==
      physical_name : .\FEN_Gestion_Inventaire.wpw
+     type : 2
+   -
+     name : FEN_HistoriqueVulnérabilités
+     identifier : 0x45fc3b5c5efee797
+     internal_properties : CAAAAAgAAAAEAmxIdyyEp73urZ5V2DB6/q3lfdO+F0uiZj49QaRo6Gjqqc4jc8ma4kexD5dJMacREQ==
+     physical_name : .\FEN_HistoriqueVulnérabilités.wdw
+     type : 2
+   -
+     name : FEN_HistoriqueMenaces
+     identifier : 0x45fc3ae95c112824
+     internal_properties : CAAAAAgAAAB+5FZKeSaOoavYCklr452rmOXnL5vehOmy0vQGRNFD3SuXia9t76r4DDGrFZ1TL6Fr6w==
+     physical_name : .\FEN_HistoriqueMenaces.wdw
+     type : 2
+   -
+     name : FEN_Estimation_automatique
+     identifier : 0x45fbe16806f28790
+     internal_properties : CAAAAAgAAAAUcny4B3w0N439KSixkJa9Zlk19c+pGbNyYi/qg4IK/vLIxMMu2GCB8ldBv0e5QbcBAQ==
+     physical_name : .\FEN_Estimation_automatique.wdw
+     type : 2
+   -
+     name : FEN_Estimation_Manuelle_
+     identifier : 0x45ff05db2ee0f1f0
+     internal_properties : CAAAAAgAAAAfe3crmMVtfso6rphGE3lCFxpWzgCmBB6CvuUgc6LoCAwwvjO+cJtOq5AK9r4yzsIKCg==
+     physical_name : .\FEN_Estimation_Manuelle_.wdw
      type : 2
   other_elements : []
   analysis : .\Projet_E5_Cyberguard.ana\Projet_E5_Cyberguard.wda
