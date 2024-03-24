@@ -133,16 +133,16 @@ project :
      physical_name : .\FEN_HistoriqueMenaces.wdw
      type : 2
    -
-     name : FEN_Estimation_automatique
+     name : FEN_Estimation_Automatique
      identifier : 0x45fbe16806f28790
      internal_properties : CAAAAAgAAAAUcny4B3w0N439KSixkJa9Zlk19c+pGbNyYi/qg4IK/vLIxMMu2GCB8ldBv0e5QbcBAQ==
      physical_name : .\FEN_Estimation_automatique.wdw
      type : 2
    -
-     name : FEN_Estimation_Manuelle_
+     name : FEN_Estimation_Manuelle
      identifier : 0x45ff05db2ee0f1f0
      internal_properties : CAAAAAgAAAAfe3crmMVtfso6rphGE3lCFxpWzgCmBB6CvuUgc6LoCAwwvjO+cJtOq5AK9r4yzsIKCg==
-     physical_name : .\FEN_Estimation_Manuelle_.wdw
+     physical_name : .\FEN_Estimation_manuelle.wdw
      type : 2
   other_elements : []
   analysis : .\Projet_E5_Cyberguard.ana\Projet_E5_Cyberguard.wda
