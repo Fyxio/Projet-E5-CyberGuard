@@ -10,7 +10,7 @@ info :
 window :
  name : FEN_Estimation_Manuelle
  identifier : 0x26001bb50faa8c68
- internal_properties : CAAAAAgAAACq+yEaCTJwLyTbiIQOwAFmZT1xlRdOlgfygQr4wcG4P/muX7vPuxZzymMui4mex8bI6ulUYi9unNI0YH08dIQghe7BIEKvvh3SiKbq+qVwLxTFNbqJmFYjGPuDdik+GNKC1trleOHL8cBp5HC3KOEgk8+SnF5ANG7tPRXwFFI794VZ+UNX24TtENYAgr0B5Gflk5GiGlVwY5Jyck+GWXJp8LjX9S2/AiNpfBNM6uYsq2/sLXQdPX+GNtotOUfCoBNuhzzEVu5sDf1HKQb7qL/T92PzzLx1CjEtnQI/Cw7//7N6ep3eeaZXitJXrDJo+Rf1UEoWGRgpTaTSh0ooJyVBf7SDvot+/Kz46/pVkNmbHRziT9q3OQzlACYke4C3mHDBEInwDyar+Wfom4zlAmtKStoMBoXIiE7ItD5RdnpJNoOWE2Dy7rGDHBxa1LI7EJpYEzjG5ICNzxo0Q9ABrQzzUwyFRhcuAnjAJN6EHJ0XgRisvFDmmfRTfZW/e7SAeYto0hg8X+AD/YAxSClQQoPJ8dBO9XqIYnfZZci3wtTuLLK49em6m91R57ip1lHQ+aWAzH7CjSS/ECJU9TcLq/ygUIalQAYW9/UhRzQBIj0hC0iuAqTvybQvLPZ+67DhyGFXniYjW38zem4GNSOu8wCekbhgmOnd+BlJZvSnai6kEDy0CalHOoAOpZwLE5DldUVih1dHHsuqIkh/DkRiskqq9Vi5TschThC+3fDMyTyLIzSIWQxriYvBy64wWQQ21vgrmhzSZ5+3Z1HrpOIknIdka3EJTTYgWzQ4UgQJwLR0ymlWhqLWaGPlzUsSsG1f27ugT9j6VQPJd846dORNojpaqWDIE8NqCMkOshQshkjutPGNNEF8Ij1hd+4NNRw0CD7LwFlRDM4lR1Ogn9UQ3RICYULvXAS9zST7MqEiTNm7kdMfZJEiGALO/R4I1qMyd4ZOzXHBF3pPWoEtlJypti36iwD5n3FrvUJz8OoaMK+hPRnnfTM33dE+et/9P85m9Xvfsw57e/wJrQd+thibVAZV2kn+NqW/RzgRPpNLRNyk5p+7FW/oPiN8QQm1+pyPU+9qzoxQdri+9zXMzo5DM9R+JuZRZSeFnosm8ujk1e6M8KLYVNta4Fxjw9l3RszFinAXRHifdSXPy5ly649hkde91JYwGUusiR290bID/lvA+ypO8pFwc1gpPfa105V/I7L/MCFm35ATrkFSPjWbf/+MVd67RKh+7sDO5G6ye3ts2xR6KZw0FR2wJm5WWpn7LuYlo3JEdDABa+efbzjwXln3u/osLqQUy6T/h8CZ3iVnpMiZtzD/IhYU3XLQADme
+ internal_properties : CAAAAAgAAACqLwB2HU4UDTnvn8Lkh0AZ8S9WrMdv6eygUUhwnW/RIiAcaNnkfI53PoTdLAGIw+aCJZMQOAjzmxpscmeFGU1CcW/a+tQYxow8pG0rPa73VjE/2kYod5aSFLYgBg/WVlZgjWwb1SUhO/JF/M+Hn77KEJUGEFDgOzhD/mXTZMMVrJWpf/enrrFfa9qCx+TfYIkLTsDvHD+9TY2BANLAC5kWua3Awz9Hw54wSBqTUSdY4OcB0g3c54UvRn0JhhMdzIeKSZoQHXmie0iV2NeQwnAGf39NDqDMXx1bV9sosqCvkoO8em6LLFvPl5hR7ookzZCmPx5Tyvr8w0wrlLroGR6ydh+dF62cjbti1tesz1AOYi0endyOJy6XzTI2m6HWe1X5OODgOzfGM+KOfc36/uRYZiel8nUofGiHk3NcjXXyKu+endtJHeTdmdo7lNQkoG9OTJxtMyj2V5zae6+dYNtVKNX49Uv6QiCvt1wr32oEIMPqKDseIZNMrFORuGHcfVXVGPmIk7cZQv2qFAUAWpaqwS6AjvzXYPRgQYgyfopOIwghHwH7Eq/w5q+CqPk52KR6xw+XQqEbNFDrh5w2KavBp2wlL/AH8H8h/YLaT7jMXIC8Zn2XZ2xb5517O3SRjkY2pgpegUG8W7DJSDskc5Aaep2wBfKjNylJBExwjXUCbWA/jTzRYzolXG6OvUICmZRI4cHZGWGH7KNFxxvujsPlTvVbibfnOW6lMQtNt24/ZDCGEedLn3oDnKoZj1NsBMCPvsowXHp75oI2RE/R+iDCiWs6kEOFg4pUG4Tu/CAOBNZTfxlFJKRfhiKTNeiTef00aZfnN3PvaQVGiqBgkPbvT66KpFhdmWqBZCbS/aP9BvFSgS+OvJmZdXd3kpKQRkg1pswM2W/Jzizjkde4TxmY2EGZ1I4Spq+eLU1wnTd1ETkS44ZtjJ497PC9UY6f3LsS6enEfh760l1zqc+w3DC3vLiUx7UdsR9T7G7MLWunPnyudxtRk16TziZgxFymBZ5fumAoqAIuuRPK1bXgBCJbQ28C5e+tg6Vt7BM05AImNgVs4+4r7tf8Bfn9sUeOYEGgPx4whlVASH2ZZI0QnEtvq81PmaahzL5e5bfPDwYpgr9B/KrkXPyV9/OaHoSos511FLbrDX2yJBjsEixW6kDuNcBnn48a7l6M3PIUiiqwKsVs4aWnDy07TNtwPT3WmQPhUDWlnLiR/CAAnraBHJ0eCW0ZHfLpvLA0mnojb1MQlFN/Y/UOfm2HE7VSvu2lW/zB10dm78FI3RK7O0jD4oO8GtwDj+rSJIWDsVRtjLV1JMa4cktWA4ua
  properties :
   width : 360
   height : 569
@@ -202,7 +202,8 @@ window :
      type_code : 3
      p_codes :
       -
-        code : |1+
+        code : |1-
+         SAI_Risque.Etat = AffichageSeulement
          
          ProbaMenace = SEL_Probabilité
          GravitéMenace = SEL_Gravité
@@ -220,7 +221,6 @@ window :
          SINON SI Risque > 8 ET Risque <= 10 ALORS
          	SAI_Risque = "Critique"
          FIN
-         
         type : 14
       -
         code : |1-
@@ -242,7 +242,7 @@ window :
  actionbar :
   name : ACTB_ActionBar
   identifier : 0x26001bb50fb98c68
-  internal_properties : CAAAAAgAAAC5JUlDL2YRqI0ULn0S4VuLE24EWWgvYwT3EM75i4gtyweVwKRSiYleSkTpRppHzR+M+kCvqvgmLOHehxai9hfU4qwdOEq59h08zLownFsr46JzF+M/Lw9J07blwD2TqPjDkAts760WoZ0xwUcJ/GB3fa25z6FqDCBxFRlCFI8jzBtP5D0gfp5vwAEQkoa45XxAPvYgYn0CFFM/H5hjFqrZdBNuuJ7xbX4JJaUeLEdxuspLP4ih/8uooS2m7hw0DyUnDtZlVb42aVJboAJk+ttWCGXVqgMx5Z4SYQqZBGMbjCaLNiUbGcPzQs4Uml0VGJktW7stdO+8foJ17gZi
+  internal_properties : CAAAAAgAAAA8Ab0CAVgbb29BmvywboCZyWAZ8dihkaNB1fRv3fU+X3J/hrBIPkF3DcgYmZYRc2cDHcA77YSRRRqj8jUYxTYRnKrK78IXASwEdDqB/3RJSwL/07lXi8VxVn6TnCHeOjmrxKBVNcmKiCa2ryOJ4Rd3GDrSgpI35ay5Iq5Vdjw1Ug8R83duOlPlUsQ99tbBjck9QSCw6JSI+7M2RLLdIWLuD9QGUwuVuKrGQH3lqukQqtY5FHFdLtEK3O4KRm38cKUrgAXZ4bsPhxrN76wUBGjBYTrcBuqgil2rElS+H6fTp+9fgVyjNpkeZ8Rl9iErklvU7EDdGPUFNLBmgNs=
   controls : []
   code_elements :
    type_code : 125

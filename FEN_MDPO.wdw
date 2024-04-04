@@ -10,10 +10,11 @@ info :
 window :
  name : FEN_MDPO
  identifier : 0x25d758000a536475
- internal_properties : CAAAAAgAAAC+KtGxsGp3XtikBt1C7BwvusfU87npw6YuXTDsW8cypLcjXfWJ6NCHF4EEx6yAt5UseBb4wreztI0oMo1J1L2R4Ojp/pdjgXtbhCrkalD0aAggkJts1zI6R7vldOETMp0JIUQcsRdQvtEuPSH0baCnsSg/6EBj8wY7gl5ltzW51Bs11M1NIvefcfqRU+dG2oFF72TMETPRp2LW5A4YcQb/TXUOBll8Yjzd3YyBZiV8BqcP7afay7+M2osVoYiRbrYbWBbPlMFOI76A0OoxXdrd2Sifg8c+y5WIW+dbDK+DLNjSNwWHQphZCp5ZFPhvVe0rSCk92yUo8RvTTP0WAZrWHIQ6u74kzuE2VbJXS2GUGg89hIqpPQGOaiFyuyzW6n8/JjXc0k7+KkTsFGHbJ5HDzIy+hXHp7eTYynxjphB7cK5FJJSfZBtMKZaaXSnzps2xl3gRvx2H/eu5du3yOWkKISE91veNZ8lWqvltIPgSVWmOqGrpRT+1kSwpXW5XxF+thMaug+62UFJDdukwGXA7IUu2fMcnOkr8TIkgoG8YxAdIT9EFp5GPaUZ9C0jRJ12JZvsMhlMVT5BvlXQhgAbf2QLAKugINtL+6vuGyqLMZ2F2J7T8aR5gj657HKe5uDBgW3zt/gl1P1c5xjEwMA/D7E5FUAm88eTlR5gtkuNYW9dv1GQZeD3Q/4MxTuXk/V8408V9VQHFM/3GbbS+beM/j5C0ZZiF7yYbwH86r7pXDngyZRS1Gj0mVNJwDbLgvB7o4cjv0a5z65jTmBU2GS89KjoFvWHPG+GDfqegC3UuVw+Ma+Yvg6Bsej9lBTIQbReGT7c7mPX8MHRZqzEagcjVgvPRsSlaWQDGwKB4Ik84+b0k3dx/3XVCG418BIMayQlJjmhdVRb4rsXEpBKgY/jSoaLs+Tvz9GgTkD9nLaMmSCfh8Tp7kjJ23eLG0zCJUi9zQ1Zh3Gf9lfRe/KA5MrQ5BjhcYjtkOF67/j94bpiOQrMAHPPvDubG+GqdoLvXLa4nduXepvepERG8DGEgOolhlmE1b3RqWJbiZeTxe4cBTx3HncBk69SMk74kJPwROY2F5jF5gtWX+VufNbvQQRpe9JKkhLJ6e4DFi1ypORnSBJSzuw==
+ internal_properties : CAAAAAgAAADGRa1sBt028hrzfGHOVRCO+UwoKs1yRgaUQPCMh0nZXf4dehqPBsAzRzbPVXPWyY2RoYjO2H5HvGl7I4Z5wJX9Jkf3NMFWChMCKrfojqzlTyT+oMGtalQVIvtdFFUfZ6mOsCuJepXyvUdprAIyUX1pjjyCW66yYSpT+jYNelZ33yNr4Gwv2OetocwXg/MBb5Zi3RXYU72Yfw/DNfPm19+drbYxhHCsWc/vGtnf0l337lG9hLetd8V0++v0mzyD73bP9GDZ7WTl87Pk0udeh5ZVJicLVPfoIYjnAj9wsdnzIlp1bexFKf5EYlXyI+3CG5A6wy+T/s+evim0ddArLaUomw1PK1FjsbstAyEUJSBbDBSSRVQrT40vmDKBWcZutbrDxN5k5/0HVVxjgcvOBLWNJ751it0L1he3XGBZwXSiPFKNVVxv0sVw+X5t1eOrFxBl9fExA0huzkmhS/PGpjaKzZPLO+y1UrE9oNao33vb9gwuI3NEl0zE+D3/djr+baVuDVencVz/zUiyzwNrY3IFh4sWiSZ17K931j6hXYUR+IgSLDs3kAtLLE7jfpdlxqhNKCMt/DqwKbtXg+1uYFvcx7rIi35PsbynxsUDW8phKqW4I9PotvdG8uQjTRQlga9AeCcXzV1DLFs46UkEs8HB53OssqYS3bVDaqsZYmomb654TXDwgMfLkxK+vF/1KdvnsATDLl2bBNEdLj7MNm0T5O8XaxnVwdmV3RraM4G7FK2hFroAwBmTPt8DG/T15BSp8C3VegBfdkqIP2VCwjOXoWu25U7V9/7jGzaqedj+6aCPtLTAPdzNjB5W+fI9Szl3gjLp6XW+M6AY7gdc+Hy70zpEeWxak9melYUunGDqfc6b1L6EL0WDQZgDAvUJFYva4ZnHfPJiGwOnifocxGIQvs3TC5h9DG9xqeAzjYyC1Jru6K5k3vyFIdnXmZpA9p3K6F+jGRcfiNzjfXjNN3RFNWnxdprM2hEJL/40Xu9i5obtIxHKprQpPrt8KNdEdbpctJsN+pnsEa+uiQ+KONqyHS6hz7+cCjToe69PWfVmYo1UEdrAFv+2y9Ve5mnuKa6MO/J5ALsimkX9xNx59o7NS8DUBGVnekMatP1knma4IAHxpNS3c8lM
  properties :
   width : 360
-  height : 650
+  height : 569
+  heightMin : 650
  controls :
   -
     name : IMG_Logo
@@ -21,17 +22,21 @@ window :
     internal_properties : CAAAAAgAAAAKryXy71hM1ww3RUpoNwquhUGdTM7HrXwxY2+9HWIoN3rt3MxdavksQpKQI/fVwweZFu6PhrhAwqL+NPHYrNJp9YfUGJygtH2rHGRaMuUmBmuxsPu1fHXs3S05CkwKXQNeoLJS2wx6acFTJTc3LDbYC/dNLI5YszgC+hYlZKKjmusOI/eveuo0+F4yxl5zdlg6OQh2wbLUR8QNngx9vJxKemCIggtH0sfFzAp2Xx67+mWyBYxUrNI8yRi2h/BeZQ/RBrz2Inrg0R1yGOa0Qe6H5yg/w0XAFI4SLMBi/nTbUBo/LTXmN+bKnhPVeV2Oyy/GrmDozPRYgNEzDPzl00fUAUZS+n/4RTsQTIP5NpcCVW3M8bfqrpdKTxX/w6I56rfXIJF9ukw/sJeP2/o4Dpb3+aseHAjwJMdYVo56OJQ/AbBsu44ixR+sLWRbzAZts8NagOagVIYr048+UFwTZCbNWy1iwPJk7kqWFmgSUKEwZDsKUVU0YNB+GLWmA5zl6pu02Cgf2H2a6fZ+8plzZEQoE8dBYuG9SB46PxkQEGx0Eo6g4kT4qd7lPhOqHpC5m5O2JFGTSlzGWiV3QzdiRN+UvsNTrTDBdvCi/UUVYu71tbY15sV5X7INqsmWRQ+oN3Q5r1ouUeqtk5aLezgWIv4eKHLhOngxPb2VWkPV28VlK7jeQaG2uvqSXDo2Fc7f80dwm16UbJA5aG0VyWJinr7WlH4TnuvxIIdemjTZUQYNLLdhTZqEhwDLFf2cwSreiQBfSXRrz/ahVxI8Y1N46LzNdH3tyRMS9h6xKkD/86eHM7i1Vxru8K+egASJBIE2
     properties :
      x : 53
-     y : 56
+     y : 33
      width : 254
      height : 199
     type : 8
     layout :
      -
        x : 53
-       y : 56
+       y : 33
+       width : 254
+       height : 199
      -
-       x : 169
-       y : 133
+       x : 164
+       y : 122
+       width : 264
+       height : 202
     code_elements :
      type_code : 8
      p_codes :
@@ -44,19 +49,19 @@ window :
     internal_properties : CAAAAAgAAACamFDV+VhKhYIfltT5DmPWEEK7dzPajZ1xOH22Qd0m4TsN6CfGZzndB6w7qe9tttjXwBOFM77qJXWlFQlfvfw7/2odOyi1qJ66lvAl3iae9Vkg1nai12FMd41eeSWO12oJ/qR3XXTpihDzKQ0+zW6+Dh/a//k8TmvYyUx8d2GDh44rqcDzBFiyntbrfBjInV1STTwRMl6GVNATs7piEI46dVTfZgz4mivpQ+PfQQF+5dLXXDJMT9Q9JuZjXwNEgDZLaeVZJoLroD4oFePisEwaTKPt4krWhc1UYFnNk8BCCVuUf3tem/k6N7t0AQG9F1SS5whKBBiRSWwcp4zE+oYoh+oupoXS146BaDwP6ha0fxkypAGGQdFUlJYmRHfwBeAx8NHcJbjb1PsasNC40n1b1WB8hvRj2/KK33p3sn4OQ4tNi3eGDpGKW/qtYxbK6FdOLndgHHeyVzuTmKYo/EFvvu0Jd5yo+vkvSPV9WqgDnGh0aiciRwFmP9hte+bdJsbjBhtbnzcr7xPDFlp6o47/TsK3NO9RVBofSbX3nfn9IoTep1XdXjzPdpkylSk+QGV0ew0DxErT8fXDvFDENqVIKid/0v6siqFGmLo9XCdsr8Dv7rGwjR1hbEo7IbF6tsegnD+TKsbSOtr9Lfwzh0kC3G2Xba3On0baHSobDcheWCqYyEzDaoIzWQW6ZJgSG1jZPowHDYqfaBs6P8UkHQd1oimsWzD9/YAIdUYaOvYjxTXgDQH0bEl0e9KRsU584+gAUIj5TZbrnIHT0Dm+83g+DbbBsxj9QtyOHF4J23PP52L6LhRgNPR5iJPpvpwRUia+xcSk/nS6+Pq+F8Hf2MrdTsrz/as4Q7as22Ev/W7r8ICFCzEOYihhEqtNNOx9bu9P6HT/R6oi4wR7I7uKa7zjJleLzdjsjZA=
     properties :
      x : 58
-     y : 333
+     y : 280
      width : 244
      height : 210
     type : 3
     layout :
      -
        x : 58
-       y : 333
+       y : 280
        width : 244
        height : 210
      -
        x : 32
-       y : 450
+       y : 436
        width : 528
        height : 210
     code_elements :
@@ -65,7 +70,7 @@ window :
  actionbar :
   name : ACTB_ActionBar
   identifier : 0x25d758000a686475
-  internal_properties : CAAAAAgAAABclyWmnokQr8ylj+qRYlx+ZvFRBMM+AlvWKRnxnxANwcOfbFauJ0Futu4TMuYHrSV0IKzp+pp+mMWgzTrugpN+Fv7tdhZD4BNHTx1nwKNzOcJRO03LieNpp1gz+LV/hNaz5iNq469ySbFb4xeZCDAdGSctOclsXNxxC4eCNJ/oIfbCoxRFUzFe4+JRVW+N/iWrgflLQ17ZC1o0LM8YDyNSxz4t81/CREXgRkaFSZi2b8mqyh0+0KJ/WBpTIQ1Z0HaepWVgNke1VBmQpVXl54SPw6iEGZCWQFnJImNU/Zj85YF+5XbU4ExqxcEX75roX1JkomJ2Xea1CTmwlmOH
+  internal_properties : CAAAAAgAAACKQKv2gRKMxoY0LNguJfB3ecnjQRqhRe7Tux/I3Qi81NyNrrmYmibSRWmygzH3HEZgtkDo9QWEUgotjsrWGt5eZXyzc49+NkztAo7XspJSlELRf+XNAXzDyRTJUW/mgqCGweq3smXBikYKQaOGPEDsJ4WQG/43A1KoeKi4sYNNDeFU1ijDAEF8Adeb78qCFrOPiUqL7bLb0ER8s4DLY4Ln8Yx0vMyJKP3xneGKr8HHliKrXR+LVHoB0QgKVmIyXzPiofx7BL5IbHhgyO9Z07AZUCXamNiEkjg66SjnGuhaRWqSOevDlY43UHd7cwl00RqDmiUr4jHpd/jmW+OQJoSF
   controls : []
   code_elements :
    type_code : 125
@@ -87,7 +92,7 @@ window :
  layout :
   -
     widthClient : 360
-    heightClient : 650
+    heightClient : 569
   -
     widthClient : 593
     heightClient : 892
