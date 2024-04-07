@@ -161,12 +161,38 @@ project :
   type_code : 0
   p_codes :
    -
-     code : |1-
+     code : |1+
       global
+      // Variable globale pour le compte
       VariableNom est une chaîne
       VariablePrenom est une chaîne
       VariableEmail est une chaîne
+      
+      //Variable globale pour l'actif lors des modifications
+      nav_actif_idActifs est un entier 
+      nav_actif_Entreprise est une chaîne
+      nav_actif_Nom est une chaîne
+      nav_actif_Description est une chaîne
+      nav_actif_TypeActif est une chaîne
+      nav_actif_Statut est une chaine
+      nav_actif_Date est une date
+      nav_actif_Importance est un entier
       VariableID_Inventaire est un entier
+      
+      // Variable globale pour les menaces lors de la modifications 
+      nav_menace_idMenace est un entier
+      nav_menace_nom est une chaîne
+      nav_menace_Description est une chaîne
+      nav_menace_Proba est un entier
+      nav_menace_Grav est un entier
+      
+      //Variable globale pour les vulnérabilité lors de la modifications 
+      nav_vulne_idVul est un entier
+      nav_vulne_Nom est une chaîne
+      nav_vulne_Description est une chaîne
+      nav_vulne_Proba est un entier
+      nav_vulne_Grav est un entier
+      
      type : 196608
    -
      type : 196627

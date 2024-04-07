@@ -10,7 +10,7 @@ info :
 window :
  name : FEN_Compte
  identifier : 0x25d758490b137f7a
- internal_properties : CAAAAAgAAACklII0ztScdA8uo9t7CZ7gezgOoKSJSe03zVfMkSHsctf0F8OIwKH/Kx8N1ohD/Qval8hZi6oXXLaEJGK/BTUepwQFP6jO9u0Gja9xaqkE+GxVj0V+KOsmyuHnGUEImL7rKBi3NbFv6fEg5ce15KX8egElHaG5ItBODVH11JkUPx3++OLNjMXwetqVsvDnJOMLu9woy4tkNoaScognZQnhBTqW7AemmdwrhZvFhZuohTauN5+C/JvXeef8WevyBDD2pBiqRsLPsO/JwFCnYvNWiwF3tiqpL5eORJck0av9Xqt+DZty/Azv3nBKomZ1AeLLaJDedQKfa+fpI6EbSYDFloPcjz8dJmAMl9dDfxhd/zAqeHn1KqmjYmKXUgrRvSHzSh7//WCIUSMl2v3KSPgqfl5lJCbtks7Fh/V58xxhxVm6K5ySf9qeRwh9snxjFIOC2i2SB3ku7R0Ugp7mhP3IPY2ueZCkjfCG+J43NSBYY2xdpOL3ZCotas93Z5sQEI27Qh5QpVApAa5EjfAZtcPX8NTIdp+EJLIZ4NWr2CBvLYGKvm03AUJ9VfIu+7veEIL+shKajo6Y6PQbJrVmijEhQb/TsDkDJ8e1hCHKDCNPLqHTP1NmaF0XKvx9Pguw9nOL+mCpvh4YmaVrODzUsSjyCqDhqB1OBi2/hiOYGy7ZK8FoFkxEiy2jcLbSeEuLafHxERbNwbrTj0SrUolbUxCexHsELwur9I6FvVVI9dDKl53ReLUDIxtkJAPzrsrD1UKALCE2d6B3BxH55g9vqBwfEWlFFi/9/feDTsjvD9jeaMTFhGdmoeiyNqurBsbAcqtXyXTfNnEAIuS/mY6wCpf1F+6ICyvflq+qeArljStPyK82/HHwDsagcdLUD6MdU9RaieRloJGPXWaRmUOwVw2ZU/DYOZ9d4lU5q9odwESkUqSAa96+YUZRyj8fDCrB01nuHSxbgMa8ONsq66za1O580qbe3iAGzn9416cm+gB8mmxe3lMTNTMNyRcV+UZezb3GHQ6bd61MphB1bHqc6KGzLziD+rHtHOJD+fP5KCTsup/f1gW1svTOhAvvTErZhc9pefq29lG+3EuBSQ7bcFmgttZEXeBfhFrORrF0piCqISkyqnwaeKABmtEeI6CkBudg9vqTVcJBaaqjxw2KRHAuEOkRsR9cN71Q71tedKMXoY4cMFDkkW5xIsJmNH83+tCJVvypogIWpPkcOxyhzQOv/EEFPJUJr5qo9ZfOWfkmrqEhqCJi0Zo7vnZQ4QzVIoqT9vdd9ncn0N+sZLFyQM63MQok00Xk0oCiiqNNk5QXNOja9nbdfNhaKrF2jW1MzSRog7SGQcN6HMzK2Lhmj6yAQjrB67kioDprcEd8jHM7orJFZh0UF39YQz+PH84PMw8MZ6selILyNzbZ0fwfbqF3VVSoXQ==
+ internal_properties : CAAAAAgAAABnsFh4TPw1M0xGsIQPWE22OAbxwsexmKS+NpdzTPDGcB1+gHvHmJSibYf52+8utbDKdgG/kpyvOqZbpujI0G6UgNVmwVx6jOAszFLVRoQV1c7rA50Ew01vp3e/Yo7Lji/MSTyCMIR4AAAjtvukm28XwNqmE8boX3a419CWsN9nhPxb9FJbIZnYNCMWGaES7AGp5wpPubiNTZROc9xa6cny6zHEL+Y3CTCdQJX1l3Uw2zzCJqowAPkgocG7aPO3FM4at2coHqmhaIHv/HAPH61WnllYYISvG1aT5C+fefMcfvW0YvdlpzRG+mPI+RbimZvx9cbtGyzsg+xbSF/rOs5vnwZ7nwH8hjU8pC4yaoFT+BSU79l+qLomJJdp+pNPk08oHgQL6wWfRJbozrgR0aQlhGQHEkBLhM2T1j/L7frLXZ2y3izvWgMD1z/Pb4K+XzkL+c8yAaxPWBYl9prKbseyi3QX8QMv4c4llOIWe0SRgz7dtwGbtMRCcwyPNftYBKl90dyK80rLNDBP3e79Zx6AiypEhe7x3PlRDAGZ878egdUq1EpLHMrGEo/lPO4oCgBkG1LJH/29T1hZoCRWUO94o6kYVQoWcRgz/En5VhH5AhaCDaBO57Xc+31BQi48dLW7AkFqj6NXCJ5KU7girj1Enw4mhSbGhHS+wGndBOITxpOeOjP0O2gq+hSKy8TPkv8WrTYdbM6I3gDonAA2zSnsph8ew2xhgIy92icDZKaVqf2R1tJm35+o72RkAk/xr8jOQqENDg6vBwCylbvuckwPtw+z+CjMpvuDHd9EV+KZVWQVnjY88Z7YZiH9i8bKST3+N6vBB+5xiPFidqxOY2LY7WWVYY5TKmq/8jDwtgCFinQZXPgokHG8K8qCRu1Cmn0lVreLyYu4JJr46vZ92Ay6Il8J07KrOGMOZnWfteQpJlD8TRex06ot2pXdATJUYMQPTmvnUGcpn3FWl9nsNYdr/3OZlnwxJ9bMpe+rCvmDQ0v1U53hhFJqKTGTOKKlTA719I83jzjLH3xjsCGs9/G2cgLCJE8jasShvT7ggg/dtR6dtUKHeijB/B+pkcKtWEqNL7by8r49FeG4i13CInnXWxXGhdBR48thbfvlzNPoDwml6J2wYEHVUCeUbORrD9iL3smFeYK7mvu3veKTUiDRbAuSA8X3Bof838KtH3EN1gMhAcWyI//qoKAWJsTsCn+8GyQqriO4n5rByokkFljdcPs3QmiChdmV+vELAz//aKx8IxzNjj0eTBR7JfZ3C3nYb9/tphvIuTujf7z9I6+mbUWjnYWu+qaXfe6iQw0tQlkwY7p/OCQsyzqdN5rnMLQRzY+hoZVoc0lp4IU7Zob0xWQsxCLhTQRRNLREhx4rgCOzwiSnnOoL/7aoML+HbXcjekED/V9yxRm2kqfEjStrDiuq29uAhrCL/YPdn3sFmVxy7fuxkuWR7nXWeLl4gbUYX9CsWZMGvAQyCnPUsw==
  properties :
   width : 360
   height : 569
@@ -198,6 +198,54 @@ window :
       -
         code : |1+
          LIB_Statut1 = Utilisateur.Statut_Utilisateur
+        type : 14
+  -
+    name : LIB_Entreprise
+    identifier : 0x26131b250d66550a
+    internal_properties : CAAAAAgAAADuPle4L+Di83bhx8q6Cl8a4Fy0yIiYsNAt4YkCCY3eYq5/K0LRz7CWc5KRYuO2MfyHSRhJuKLwLtsNGYIeBjXFUv+nDF0kXTV53ddyFjiBkGmxExF6EAivoJ7Qw0KtqyAGOlDF/o23sr2pq6WsDsVzdw8AI+wtROq/c6ntOvRsTxIKv/dMEa/3wM62oiwETcypT1wQsfC5QtsIrrzsYZYt+4thaCIvGMw3ndBMdjCD1RMgjOi9Jf+oIGOMi6owHkOyx4Z/lRFVXSwx8W8joL8CjCeo+dzw9BWaslXx10aipN2EgwDDuwycQwHoNDubf4Vyx+Zs8wNJpKHV0606WyasKa5kfiFtAmxnoqGOlu/tUUCiEwrZV4AId5+hXmePX0/tY0bJreSFyDBdDEBPX5sXE03lsIyMKzdK87yAzmykadVsAAzddVb3lxWtf01QPnIxDmdEmW4V1c+HvBVjBRfN6wGsMcB6FXeWFxx8gfaG1oNvUHRIsvU=
+    properties :
+     x : 181
+     y : 419
+     width : 90
+     height : 19
+    type : 3
+    layout :
+     -
+       x : 181
+       y : 419
+       width : 90
+       height : 19
+     -
+       x : 24
+       y : 658
+       width : 120
+       height : 19
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : LIB_Entreprise1
+    identifier : 0x26131b9f0dc33061
+    internal_properties : CAAAAAgAAABIBsg6Henf4+Ln72JLdBFTbNsp75bl71NTpInLq2qo45igEuuMFFJX2GnBFoPNWxblh7pDEUP5cqYtGW6WKauLA4UPUYuW4g+OY8ZLcRPJO4JtB8BTMOEXXp9SFhNLsRHF629ns3NcFSluRRgWPQ9M+Xc0rECFryQTS2X3StXAp9ejRRCRKnNVLeqGhLIw21uGgC5g6v1WlQ5laSZDKHKzM1TZjTZ9BBg1efxKZQClwyH5i4z9ToVLlLu84gD5He8/a5jNUqIUJbTamcZj+QJ4a8VgDYsLLb0yycXO312n1s4whZBM3A9s81wErRFs6o0bL+iU5ABwAL1w1eYYzKVM6BZ6yoRY2frxEyHFIiJa/c9IH6wAmuF2kbrzrf+OPMXYtfJprK8cDvp4Do2p/s5r5htvfrNXMOk4/g7dAve5tyJIlqJc2wttnkAokRr/b6YjGC54zj9x5rlThJwxDDv3Qjvuip6YSkTbHkWf1+WYvD23TSo=
+    properties :
+     x : 53
+     y : 421
+     width : 120
+     height : 19
+    type : 3
+    layout :
+     -
+       x : 53
+       y : 421
+     -
+       x : 184
+       y : 654
+    code_elements :
+     type_code : 2
+     p_codes :
+      -
+        code : |1+
+         LIB_Entreprise = Utilisateur.Entreprise_client
         type : 14
  actionbar :
   name : ACTB_ActionBar

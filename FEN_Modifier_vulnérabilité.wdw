@@ -10,52 +10,16 @@ info :
 window :
  name : FEN_Modifier_vulnérabilité
  identifier : 0x25f99d7a18b89d88
- internal_properties : CAAAAAgAAADOsfnkogaT+EFzpiOIv4TAhd1cVuQma9NOZUdLHHGf7dtYpjATCYNFaKQY4najnnABCkQ6TaajEKk8Z8PEuXho7wTlrst68+RwpuXaAVVzoIvny7+09Vw66Am3t/46GvEp6eHV9zExDX7mRhLgsP6yzAptNnPL/A0WcHpf5PjBHxniCm+J/PShwgOoFPtBmzQ4ZoAGVVtxm26M0lawcybVqgsRf0vRaOW1oECH8K6gBhhQ8zhsh/RU50bVprSvpy0DtLvDkWXCidGRzrpJE4GUUFzQm+HvS86PxQeNIrLI5Pe0/F7502wH+d/JVM7UAeCzG0CXpD7j5VbZ+PDBxuhejMq82RbuR6fEy6fVL4RvXtL5FpTrFoIj2qSoEQG/n2dZxCOB04UlW5IkUeGKlO2hpru0nqihLjA7G4X+02xC9v883ze44PC/IovnzxuNrH0sKFvrc3tkZtfcsIkPMx5rYyRbloaUBq2ujIo4fBgeLFEScztrWxQbSow4t4Gp7wJjFYMgeBCKuxIumwNH0p09rp07o7vuhDRrW+8/Yc/U5hv7XcdNa9Mo3tK8D39O/W2lKV6KuvdTuhC2Ohmil3YL4EocDba1iuxnh0oHDlSG54ktBGAjyi1DtEGesNiJcX62RYNk+NQxPc+abv7j1TlnbNiM/M4OoDHNUB/TPiYiJFqDinsjmsGIMxSqBtThKImcUPcS+8MntB7zF+HPPrU6SIgPlnIoSjIlGKfUAkkQlEi7vNGhbDhMG5gIPYWUx8Hx1EpJR3fsWx8ptnbEjUEQ9fPwi8HRqc+cg87nlVEwkK2HlOK4IRPVxzApjP6lGqS7NoWgoA3jilWmnQyzAlEy1qAObsueVLjyaQLZEGsajsA9nuqm2qayqyg3LazbbF6gfFk18mADtqJ9PGz4USAF9XX00gLPmwQMgn5fsyTT5A5Kt4vh/LKyNuc/GnPFe81zeA9AulH48Kuc+0w+xQchkabHU3nufA8ZGql+R9B/zCcknYt8s60E3LvUW9sEyBWpI2Cto07GcY+q/bAQeD+WntZrfa5cvEJyhzrH7+fysGz3ryjvB7eEdixnIjwaCCvaah+rI3Z1ot0CluZvjA0WQJmi7r0WmklfC6zaFnhqfs4xHgl2K4XCywc8z3ahPufEdXScsnUkMgsXMKFt8mPRRHZGENTvMftrcOhha3Spg9guOxYcTITk/zVuHpmNU4bw/HA+Qy0CACLSx1yPhBqjSYfnSudLE3MF9DxyTMCGjLcEwaUbv+InbZJIqByVEm7DlEOqG3/pJY7FKqTdUJc36gvD45bptZOUUE3VIUHeBtvwY3va9VXBXs9YEdHTVdPDtn1d6Q==
+ internal_properties : CAAAAAgAAAC0+YGmNUrpg0DuWKDcJ4DxF+DNB+IFf8Sw755tlKoh2Y0ilp2wmWZPJTCyjKfpmT8jkDcJk1Ouu3gaqOrPUBlab1yuf1AhMbGlXRlQjtIBNv3+fpvBGECUD2lgptSZnhXfgPYC9iDTf6bav1p6wlKs0sxj0erMekymn39v7lNPNPMYsQt0YOk7ExaBMpv7jwFESfwmBgaRHoWEcWN3ll2BTeuFED+oSypXbA3ly31A9ZXdl05AvP89gwgL5wzX0kRZkxQLEUu09quZNFdUYUMi5XAVReXETOm2wY5Cwq9WZZPaZD3MvE9pbFQyvMMTnJs2dHOQJJB+VD7wFD/YN2ZjteBXFWMvaUpLJYjHCMzXh2KigAHRBsbqklzlv7Lv4rPlEeMJI1mY68hUwDJBgyePudlV8dZ83vXG6SI0btCZZ0P6bsfL2G5G+WDuDnqUKJlbe0OSCoGmx6zLoWLnF1oTm/Lv/lBVNsGICDpZTYS0Q6zBYQBH/i08T7frnqMV49lF6IeUNeA05s9ZboZhPfFiKBrpwu3iTdLMSts392wZwmh4rIXzup1UNilxifwGGDOX6efYkAVCsYZ24ry4pvoGfALwv7nNiY1MSQh+nG2/Ol1q5bsAvk4Sd8mlx0t3EmkvD5Agg8MW6F8z2JbswuP1hTINx1DJ529Gm4AnSLllpmnobtmTMVUn3PCV5vge8fl7DRH+T8gluV3DHm2hw3JYKztJksZF8m3mVpKE7K5JgnUe7PvJj1hJht7CdpgeUby31JXIllvNdbuYNsFtJ1tHbx3/fqBPPmGgqPyOcuX49ae3lScbz0ChKYNtXeN5auXBDPLlnZf8SJ3xZdFKqr13DohjD1awb2CUXjJsjz1MjYzP69dpwIVA752hgPMbQI2KsABst8BuPvCu8I3bg6IQs/81V6OR3tKstRLoErJhS1BOXPhm3iM8BoqFqd6xKxJFnkTdE6FduPnpqZNDce/Ae2zQkMICG6sXlfHZ4vwv4xFKtmSXN7w2vMW5xmuNkYZKmLCfMTirWrwNJsBYtwxtVg47cJFlULnW5JYyKmru6m/gbXDFcvyMCT1J/7k7+uWFuZnOqkj7as8DmwFAmnsWaF/iaHc5M+KN8aZxFhZ7TC0F2eZk5A3Ak8GZTJkZYm1VVSYR8U39yrLEdFqM78uj82hejFMnhtGqcMqqLx+0b5GXZzAKZSZV7mfRxng7Oaplotcsltsp8oqJd58tb92C+4NetZwOhEx+QKaSCSvKkvbOLk3MZQl55C0o23BFj6/VPptOAIiiSmQ/5nj4bN0sJDO64hOsCAbZcoC2C6Hg+jxM+3ihm9O3dt4=
  properties :
   width : 360
   height : 569
   heightMin : 650
  controls :
   -
-    name : COMBO_Vulnérabilité
-    identifier : 0x25fb23cc0f06d4ba
-    internal_properties : CAAAAAgAAACikHVBEdhtIIqNBwReyrdWInix7kBgGW8r+kciKcblitL8paw5HU8i0h9YIGcLRZZNfVZvZ8DuihHDIsdMrs8tHgXqpOqujZQAKEipuYeLGY8Eao3PH4s7eGjJUH6zDvI+lQNqDXrPU1kmeldKwzDEq3N3xcftfyUfhFP3G2T1+dEvsO5SHIm50NadHop/IUWZ9srm7hV0yjFqJVD6XsDFG3MJaPQ8PGaHTYHo9deDG6vsPAeHegoSf/UvX96blUbOP6AMNaaJOWeNmJF0tUC6V3xBaQZiFnoNr2ifpBee1mweI036AYIn/Cu2SiGpnAAnNMVFJHe/mKdFwOgWtKuidsGptqbW0vOspo6pDrGyNlBSGdbm7igrOChYXBJJD+uXKfFZPqt4bjrvQ0shWGQmHzHpw3jfVnRHnRW+hBKOPIv11ZcDWFQTqPK1ZZn3s6s0W/RKd9vaYn8oGH9mFFhA6wZydxRf9JbVd1BvV0Sl4RZN2w6LEfyi8Zi52FnlCoQa1Vpc4Aw+fBottxI91sfQ3oUwBTxJDSQ4zsk9usFzk0MC++LSSdf5r61wOVugrKMnUZB/v6XZsOwdxhG4bEIm/Fjh6iysKkCEIjBAxQkC+yv+eD/Bf9QZY1fGNrKYL9Gvz00zqbNPyAT7ReypdO141weKufjH9rR1v3bmhHoGKOg/IPxBdqfAN7SVy0g1RD+lS+0Fh31WHlOGnoiswsck2VIHFcVZKeFsBFAbH/GO0urlgWRbjho2/KUCSfGPVBMH9vS3xqQTuGuBsErITYXYkx4aJbLaHWb70YXp5J2DrOJam3SId5laJ+H95pKxREuSzETObdkAzzDb8sNpLHzi1OLJXcgYXsd8SbHXDplbZRN+EtDpDOEt964vKAEdWGCIIv/gIi00jNwvG0tlEwYSTmTUfXSDbuBlVR6iO6ZajvPbNu2rU21z9U+ntRKXrinz6BcXLrYQ9pyZJhXefeRReZ+PcRIbb06R/5/XQVuFUjY8GSO3thKEuLt/h2JEDBSmmvJm4KZosFRQLPZ20zs1aoGJvOrb3/I+PBrinvYmW0kC4JcO6O3jDD7mHc/P7EHN+oBppugLcs8s+GUCRqandnA/yqkoHaI3SgfFTQ65g293gvIpCy1xNqkgfjZEvLGq2U9CkTw9wN3CUkRwKtM2ThywMjG2A261N/uCvKnQzyT0+YewqtMFurj2l+qdVzxpDw5Cqs2TaI9DCfrneHWb1bte+ZZah25qs8ZMl9lH5JoNRbaD3X3M4Ev3hg40pHx8z798ay/L4edzFMg/qo/3KkQF7PuwqcIHFgiMwnDilVxSqfs30R1pDH+STA53OqT9U2KXkbNTAE9+6X6dcxJA0fLwV2818jZFizo9AJECFuoNsWiWZlDzx6m/L9PIQo4Sw3WXlmvfrFCtdamSS8GYkKknADy/2BmwOBx8mEg+gni9bQSpaFG2/v118hTOpcz7ojAmNyqpfY3ho1Hr3QDE2scLguTVmG8EV5TdDOIocRpjHcEgicUOFGcg5oKXzeTAgTY78nhA3gNUZTrzn8GXTefD4DYoWY33Wp4WXmiWoHNDGtC5MBjlYzgHmCEUNk4d1H2KXHkw7y3OTZGSgja86wVJWaozY5cjXGlK/T/ZyA2hz1As8hISatB/Q7jT0W0QdZRnGdfTaau97UuiE9fn8sVLOBp4uXXri+CGS3kVbqGGO8aqbmkR2S3OYc2NeQFLyHbdo4DXDOvXaEFHf+/HfB3q3K7y8vdUdLweCkIslEoLVwUTPdzYLH1ZkTiDY30cEpBoJeZGroBsx1laeD+EVZ9VixlgAdednMIFTHSWcyMpg3dxL5vRaD3WarW7i3+/Z2xBBkBW2NgbHkU=
-    properties :
-     x : 13
-     y : 58
-     width : 334
-     height : 56
-    dropdown :
-     internal_properties : CAAAAAgAAAD7W28tMDjAMw3K1qskROWoiCFziiz8yarcQPwkucvkAkGl4v+nNPPh9CtWgmB377l6QPgnUHaebgEROfnQPCaZpYMYEtEHMnC07Aha3Xb9Otnyx0EK0NvmRCkxl62ZaNruAwvSSoBZjetDQEBVQQRoVDI5xlmYiM4jrbKriXIX/6YMW3laeJIIj4ioWEfoNIGmcPqRBZmizqrqvTpPmvJQhz0dFOQDmyNQi/Vj/rm0e3l+pssl7G5s0ucOEqYiilZou95vz009NkgcZ0DPNCAf86H9plWrFTnG6zSrkA3Sh3yPbiAumUovCKfQ/GZl8nYdqZNRoIVKqjh1TG0Z8Es/EF9AGjurqmHh+AbPwdCmZIRTYlix6cyxiHqftcSxj7Fed2+RngHTOTvIuc/zU9AKsahPNrECjUgoiU43L/wZdsBzhirgCoP0qytclUsQJpXwaYSkjtFzZr4UkhWDKbpdb7lB9qw4ABrE/2caZ85BNqTCYxPMocZ6imE0WmytGNBT4xu+SfNVjmTnteFS3BhwuGzM/bseyZ4ajv3TNky9TTYGy9gegePgb/kNDZbaNfm9gEmOzvbKhTKM1bFwTyc3w7z3i/UfS2Zwsw6o1hIaqu5kS/DPyGbcvFMvrNaN/xQsFVzn7aY8jMAoG/YlnDVCazTTNLKGw/C5lFe8wxR5+h1Gp/TYawRazj6u1wKCbmF7OzZcM+JgZwFe0o2yRsurHGprPiNdJDJY0lOd+Rw1NXcZfr1P1g9dlA1UZMA=
-     type : 7
-    type : 14
-    layout :
-     -
-       x : 13
-       y : 58
-     -
-       x : -107
-       y : 70
-    code_elements :
-     type_code : 23
-     p_codes :
-      -
-        code : |1+
-         // Version 1
-         // Description 
-         // Combo native de la plateforme (si l'option est supporté)
-        type : 14
-      -
-        code : |1-
-         
-        type : 35
-      -
-        type : 17
-        enabled : false
-  -
     name : SAI_Description1
     identifier : 0x25fb23cc0f08d4ba
-    internal_properties : CAAAAAgAAAAI4s9SA21SydDzVx5XJ7XFidKP/lMpqggqaxqL/ip6PkS7laPKsQvICivq9XIrUdY8fUGtdyGX1gY8zHY1i+olK/4C4rvl4SY0PtCEzSNcMc4qhUjDniLaQhKk36GwZYITzRK0yxCI/xt8P7R37vkkZKgutBnlwWzd387aoafbVtLNpbEXX25mucR27erkPfgXlF4R21EP/48BwJdIdQDpKep+bRutUaBA/Tf3rT4n3hdmSv21tgj+NqyAN46RO8xpsaF8IiVd1WzSWJwuCPA/vl/OVOW1cNncO3DDu/KOpoSKEaZOPNpjTFQ45P3iHS/6+8RfyggcoEh071EKPpdqgOD1bJhUjmfabo0AigHnGXgZjOPQLq8nL5EEieJ/nsV3pjOKPEUWOmHVWBJ/z6rNHx9xMO7Uf22UmavQMIakfUIpYaCHV1nBybU7vxboXksBUfECT3ony/uTuzVLEOhETQjt4a/mSnq9XdiYboOSH7eeHAN9PNs3aBBA2nnvOGwpna9CgRIJzUaR3W/K5orVqT495Kv3M388D0TtDiY7rPeJisnfFwI2TJAdH8JO/vQKdopS/NM9aa9fDSvzlyG3ioRWQrqwNwwfZb97rUCYy4b6DnsOZ/ORl1SdlayqoW+onMdxVZAD50YCMy02LO+RwBYCEVISZDDE7/8n6jupATLXMSS6/gho6/iM0ZLgOXl0kzgaaTwr34oDlGYlqMu2akGB4GwhoaRpmfJinGo8Ql3LCVBTd5Y4/sz/FElEueVweec1cNV/Gkw24EiVvL7A+ORnAloZW4cgUVFw2ZEnzngvKWrUgTOSVed7Y2ZB5koJ/gAenXfbfFQ4oNAQopsCbWndGI4Cv3Qw5qoXW2ihe0WM48Lv5i8Jbc9uVFMj73CwcrkFvdDjO+QF4a2zu503sGlnrHKO4SLROVGQ9rVU2VHK+h8XbDrarqPadBcZlGP8k/9DVfgh4A==
+    internal_properties : CAAAAAgAAAAwKocaO7WKobirvzY/fy0t4Sq3FpvhktBik9LTtvIi9gzDTWuC2SNgMuMS7XojSb409ckl/zk//r4EZF6pp3rFuz6iYltlwUakvlAkHaNMYW46FfgzrvIKwuI0TwGAheLDLTI0y1Bon6ucP9THLkl0ZBgeJAn1ERw9D54KQbfbVuJN5TG3X07GacR2TXpkLYj3JA5h6+H/T+9xkIfoBSBpWQo+DdtN8YBwPffXvT53rnd2eq2FxrjOFlxQJ64hW8xZUeFc4mUdFdxSuBzeqKDvHi/epBXlQAlcK2ATe6JOxpTKEaaufLoDPBT4xA3iDZ9aSzQv2hiMsAjEPwEqTlcqkOCVDHh07odKLq1AeqE3CZipXPMAnr+X72F0GeJvHkUHprNqXMWWevF1WDIPj9o9f+9h4D7E7z3UiTvAkBaEfXIJQQBHd7kh2ZX736Zobjvh4cEynwr3O5sDyyWroGjE3UitYa9GqpqtnZj4BguKdw+2tMslZPOf4IjYQpHX0IQBtadKifqhFd7J9VeCDgKtYXa1DPP/6we0p9wV5s5zZC+B4lHHXzreZGh1h7o2NqyiTmJaZHv1seeXxXOr3/mvopzuKkIYbzS33TeDxQiw4/4yhoP2z2sZT4y1/UQSmUeglD/53Tj7z376KzUOdMfpeA5amdqavNgcJ7dvIsMh+UqvyYxCpgBQozCkOQqIsdEsy/DikWQjJ+I7TG4d8CMuIrn5aFTpWcxBMSoqNPI0mpXDgfi7Hy7glkR3XMEMcR0IkT9d2J1XIuRumJCtBBaY0Dzf6mLhU48YSWkYsblfprDnQXJcqWt6Dd9Tix7pXsJBdtjGZX/TxOyQeDioCjOaZWG1IPaKl3wonuLfc3CZU/2Ee0rXzgexxVfC7Ct7FxjYGtF9NVhrQ/zt2bW7g1VvSIEPdLpGmVoZ8ZlIru2coZmSMlfvVCLCRguyXD/BbLtUa8cLnbDZGA==
     properties :
      x : 13
      y : 133
@@ -73,6 +37,10 @@ window :
      type_code : 3
      p_codes :
       -
+        code : |1+
+         SAI_Description1 = nav_vulne_Description
+        type : 14
+      -
         type : 276
         enabled : false
       -
@@ -84,7 +52,7 @@ window :
   -
     name : SAI_Probabilité
     identifier : 0x25fb23cc0f0ad4ca
-    internal_properties : CAAAAAgAAABMJWL2lv+UlRdyYYVA+IHEa746rJ/j5NjYSAg2EM4gPTHnLnh878r1vQPStvpYXBXh3jytqQaSVGJjoV1JujjqxsDGDHbYeOsLcJcaPP0rc8u9u8QB7mp5iLhXFq1r+ph2O2gzQIVWUP8+gJecgv058mxsVtc8/joMIAA+hSYaMzRDkdzIPxb5UUcj0x1wHhKOTMoPsCZCIIsTb/jdLBKPSNzX7h99vwSM05NGxCp0jtCilUIrB1jPOJaBpZpFqf3llFEnuSpx+BYKSaHiXw7p/ytVKrBytE49aqZxEmxCgUZu7fu+YydQu8HaP63Q2EOjMh2QdFrXGhzsbagVlUEQL+ZPI4n7KqGLa2si4Ke+Rz+05+AuaE5MceeNAvK81v9zjQbNm688QEKMMjslRivbLO2z/LA6WE7Uo//1RB6/HeUaaLwIBf3WVcUn2G1Zy1wn3k8omLKlnmNusm4tPQ4FJ8enUF2KAVESFU1y+GXrQffunXNmXFL0GLkDk/yL9yYCb4N94lK3Mx9sPulFlK0LLd1/ismXZzqtmKpRbgIG4ca8eXWEkmn9CgyrAHCZCkFWA7Fqq1Elj7SObD1hAKHtGXjeVkdeBpF4OCg3Ud4bMow2VNm5KXHMbTA4TMfmvef9ZVjd757mkDmnJTqSx0L/BppNxR+K5GUOFkTL9PX2i7KVVDoVSp9EgBFmQyU0l/db16tVmnY0tdGAlJduOMBJ2Srs6PAXNCcJLn1zvYkGNUP60PVJqAm/5NBO0u8OWxw7Oy/b9RDEXh56ljEWPJWakpf/CuQwUTrAXadKLO/EfuONTSEbwgJf1TZ/WvLIPe8lkOnMpgFZki3k5Iv+n8fm27KERX7LnLhsui0hldhF+lOx4uPvaLa/bq3NLEWOUax4Kvc5YC2pX5fZZXf8ZvEbEu9sNO5VFpECIW5wA9T6OtxTRoBl2DsdewFq95EygtEsa62iLQbM6wQ/yw==
+    internal_properties : CAAAAAgAAABgBaLlEEnEyL+mWUEL0cb61jIg52BoSzZOEpeaPRYg+iBHlH3wu1lUCm6S0C/u3SSSw2LbTMzBOsMlgXCwTKxWH4AC0nMb1NySasrht0KvChLnvVBm5uM3xUdUsJMH2N+B/ZLltL5gG13arY9SKr4DDNVd0LcHt5VyHi6myG/VkkH0VgHOs+LLsKNBjsm7UJu8EEAS2F/lz6372rWivje/LB++XFRin+Bxo/MZoFRac54Fys+0GsGwucYtUc2I4XCk5WbHUC2DvTrjID+H/rN7zwIYo91o9txp1ftwP6pkkAhfH8nC2PgCmsGPqHoDXbw379AvkJ/rwdO58vQavdYynNRrwZJ/CqfrhGO/tdzdwhM7R3babmTD6KFSLq3n01DtskeIeuzTDrFteU6GI8od1YASJEhP1hS5v4CT08FRhtrwTkwzjqg+A+RC1D4SDvv2uY0skoWvHQSOQnbbV0k9gPLjiRBzHUvc5zDhw1wu7O+a4yD0uQqV26kHSJ5WNhnuHfE8ZqG77sjgmi5NB+TaM3E16VHOvfsYkmJMItWJWKZW30hYBQGM9zR9o2LyZ3aIXX+pl5wnnrGeVr7XH5SI0WgaBe+7HGQBhJq4jfHiNTAcfrypRFEVtNJEJSsZZEYdwdYaDWnIQ/YFiZf2zgGyqqJDTJ378IinJKpkmOiBIsJBruNXzWnJx59API0DgoI3aR+a4NtcFGr8HvRyZRH2TWKUOc4WCGCYrD1qa5RhDJNoohKNI1EuFcqaFZ+ndFEHodGKJeXab1FCEKTGz+y94M1lG7hZ3blxxYsrvBJ3bT+ndeKN5VIMcKjX64DpriwpQBFh0HyBU/A4QtLGdET76xpKRFRY5DnPcjvUF7mWI9VlGOLPlCkR8DLvmTXp+G+9j5YARoP15j3DNgfyLMG59SXbKjwXX8eiYdjAQLGQhsWs6V2+sMnC4kfeXFmA9IibyXyxBa/VI6KK
     properties :
      x : 13
      y : 204
@@ -102,6 +70,10 @@ window :
      type_code : 3
      p_codes :
       -
+        code : |1+
+         SAI_Probabilité = nav_vulne_Proba
+        type : 14
+      -
         type : 276
         enabled : false
       -
@@ -113,7 +85,7 @@ window :
   -
     name : SAI_Gravitié
     identifier : 0x25fb23cc0f0cd4ca
-    internal_properties : CAAAAAgAAADyjQjxyBPegva5w2p7pwn387Oxb6gadVBG1d4hCam9LANuITMuqd7pBb7HZrdZtGrF8+FFpofjzR5m6MbgnLNLY7YLc5LceUYNNTSibSy+36sPOh1appvKp9FZREwDraV1FUShbiS8l9LTYCAayylv5NYoWy9U6RN27gSRXxS6N5AQDIpM3aTlZRrFHQ4ImliQfZfYpwe+8UVDVJE+uMLt4h4HacjrGKTqXzvSl4NGUDj6SLOkPcAS7CSeBNuRBy8AskKqD+RUBJTHX9SPxkKQ/8jstiGWih8hbbIlrIoo/bM1833jF1XQPp9x24CHCmL4GlengkKCOSMp0i0pKgUGAuATwI9AoEtH4qz2IIgjESSR0Th9AMHdZoANJIbCQkOzG1aird3LbeKmpai6p49rcdBZmzsCSpjLoLIj3q2sEdaf747ldjJdJOUDKbKj+kfhFG1aw3B5MNCMKP/4L288sJKyV1QAVlJlhWFmD9cOQk8ACkWb/0FbAxEa2njF7WCE8t75tWjR/zlpamijTIFrtkWsrZ9FFb5q5OsNvmMzCzVc09RZAElyTkqwtn+yQDW3+60pGBhlJUENbLRT5LsipqnhTY0tozK4+ZNhUv2faBw/V9FxDUy6SG/iGDZl62UXlUccR30UZ0vZwsIdmjvO4TBiZqMmwhIK6bJC1mud0dfrDaZ2BDFm2Va4Dg2OE8AcsdR+nvRknUl8cmqz1B6iW0ntRO6YZLT+wfZeuO5WAWhc0Vr/WzFGTQGy/Ct1TAXFTbu61QnT1o350IY28jjZQd/Ku83w47xohfPecS4BedznuaJhu7BZgjOsnFfonG5V7EBcCXC7uj6xzBwwIWP4IL4iJR1Gq+mLIDA/zBtNxcgERTERGsrreBIMxPvrPLNGmCPEDbTTpNqm5gdnJtuBv6jWldgtII8Wkzhcb5hYOGBJnhpZBPfT/7wAPkEm
+    internal_properties : CAAAAAgAAAA0g7Hjn/M3iaul5CjqwUGgwb+DyUeailpMnRmOGHuY6K/Cw9tIKjp+Ao6g6+/TRNAr7M+lATBnfH0vOnsFYNS7U7U+JWUfnIlc6oF/y2B6qXXX6Y7nlGdHvaZ1YIo5vrnkFA3iQrciNVlPb3jWpdVou5Ddx3wuZ3DnowbxrQQsMhcei3y5NE9Snj7mwkgMlXqunlB8AAjL2i6DkMGvdyLif46eooeEBGWAJLgJdnkP8MVrSBtzsZfBnJqdiUZFgIBhiSx6m70gWFZu6q2hk62cj7LFAwSvsDFfrv5jWP8TMmZQOKvbSYdo0af6XAYaiSQu5mSk0VFvwQvfzg0snCfaJ+nRmIKyUWYhPkK2ybgsON1O6BxTh+jzNR2xJ5BS0ofGWvJfuzM5Ssb6VYOLrHqXYu8Ke6ma96kXl7Ys5tViIKUoSB4Hlxd+D+xsKEqxuM278MbmF4kZ5VTb89+WrYm63BZhDsd0JEdZxrnQ8uZES9880EJsItW8EcSWtP1aa6fuGK4eUqmPSgFOoDTKPy/q6hU62q547U2kk7NXDzjNUBP+61OcI8VbAHn2SohDXJL/bxNkqYMZUg+wYF540T9RLl3vTuSq93E+ilXp33pT33RjOdQwoDbr+HqcXNsKV4CXcWVD6rSw4hFCGlDw84/TM45SAyBbZPOK3jAixSRdVs+fv/ttKy9h15mycnBRCft+p3hTbx8iHrnHxujEhfCnP+FzTQnp6D0wTkJMhUtaNIqKqR9SSH2lKWqc8Bie3Mqh9Q1vnqTNA68AkLQ/H6AGhe9cnKwz6/c28GV6wCUDPORDQ32kHGxYUoa+yKDJuLmvWnDpXs1PhRQy/CoFUrUNusxW8mx9CWjXj3BC/TyHXrDzpUHbsTlXuxNquO5QyUgDYqQMglXp6vej2c0c1gNBzsRC8j21QCXeCY6XgAZSdFOLEKRgZ/1rcN6KM6c=
     properties :
      x : 13
      y : 275
@@ -131,6 +103,10 @@ window :
      type_code : 3
      p_codes :
       -
+        code : |1+
+         SAI_Gravitié = nav_vulne_Grav
+        type : 14
+      -
         type : 276
         enabled : false
       -
@@ -142,7 +118,7 @@ window :
   -
     name : BTN_Validation1
     identifier : 0x25fb23cc0f0ed4ca
-    internal_properties : CAAAAAgAAABMnJGqKnH/J8Q4Hn18oQklStdZwZ4W090ggATbS5Ofv1YGF4pjSbnYrNAWe889H25qa2+kA5jCr87EegpxID6ypo8bsg+U2P9DIBMQJZXq3kgWo1MUv7GnoBi1zgPd4ABGHnJveBOb97x+Y7NDaR0D6aNF+FdFMmKYGvFXljwGvr/UCKzbbn6jHpKbS/GNyM7dy4fxSDcN3SMqBpjVQ4Nl14ccGCjuLOYnpqLNrAuuHkO85l0SxVQM+QmCt0wVxjh+vrYYT2rV8vLEnwWUQh4QnHrPSdh9VXQqf8kru3mZQ0ud+EZ1F4GjlZWiRlI9nl8KTYtj3fl8GKwBYtI3mC95xo1J0W79LTjFzuLIYTSauqkws1wENlcfZy8IbMws8IT0nCLs/3x63RvzFeN7b2DIllHFYwrihit2Y9E01K8r/f+7Vq1FcZ3AA0zbJloBd3jfANd85+mi3uc6HRSC5ptRAu+lKz4RgBv6xZCdWTZXUdEOI79/AAMaiysCbgGTxYGK9gKzXPotH+yQ5MGCBWztTZqDEwLtjlHu60Y2yCTIHCr8YqXRjPtCR6jyKK1bzZIQNFWCGY/7+SJpexsnzZvXCfZTnXRQBZUGBClY1e7Bz9BkNRiBnQpqzu8N8tytWl45OHfTSZ1BiqVwJIt0oSBRU2Dosh3Dj+CdSmPc2dLJXAevqHcNqCQvCTaFPoe4FEgoymHQpYgJM+IVajV7rbVZBOM/9XUXk7isKF6oK4R3UfDRnY85FMUP/vf0k+Z99PKuqmWnUkpF+LeHyd9GordVKBMCQ+jbI9LPPIA+DiaTTgfyv2c4adnxvp9sI9bf4ykV8SEW
+    internal_properties : CAAAAAgAAAD8TCFaeqHPd3TIbo0M0ZnVOkcpse5Goy3QUNSrW4Pvbwa2p7rzOcnonOBmS5/tr96aG79Uk4hSP36UippBkE6ihIOjzqP4cCNnREc03eFiPozSqxfYKzHbHJRhmgsZaDCiCurzrMcTu1B6V88zxaWTlcflXDvpot6EFvUDDsh2FnOQ8Bhnmvb3wi7Pt8mBwKaBB4+tbOtVuU++8jw99wNlO2vMxGQCjHpDsm4hFFcG5tdA/hHWmRxAlb1eQ9zBXnAqCqa88xbtRj5AC0nM5o648GYXJXzJ3eBGo/0PExXRg5dhCBqJy5F/QWFmAtoxJp/uuUuv0e0EtBDt1k5PHEc5onkBDXrx5XzB+kZU8WgSKoX0+1jAip/LkwtESKy4GFywyGpAY5DSee/vSUfj+/hIgjX9L75e1nfqJ/POckGdA+VBKKczc5/CMZ4F8ACj2e5VLoE2PVMMQAWM707IqE2n+MX/5VyzIr3oV6q//1AxvyckdcmNor1cqS08GO+9j8/4HORNchxPecpyTlPQF3aLk9BF1UinMDOMbXjY7kYS2miqbF9PDo0MXfJMioM1bzC2Sr9sb0GtM1iT/b21X53VhxwFPwr6r/+cjgO6e1Db1a6K3+q/31x0JKmvFDJPLIxfzqkd1w/L3OsaRr2qmwJXWRYS3Pu9ccIDFLWGN3RD6jX9eoErev5Br1B3AJWKNl5WQCtKc+pznegPNGe5Z49HkhkRx4MBjfKaWgDCAd6xL1anf58pZBXfjkdEQ1btBILeWpX3ApqVSMeX2c92kkflWMOyExjrM+LfDNDu/lbjHndiL/eo+WkBjq9804YPM/lFoVFm
     properties :
      x : 98
      y : 417
@@ -161,7 +137,7 @@ window :
      p_codes :
       -
         code : |1-
-         HLitRecherchePremier(Vulnérabilités,ID_Vulnérabilités,COMBO_Vulnérabilité)
+         HLitRecherchePremier(Vulnérabilités,ID_Vulnérabilités,nav_vulne_idVul)
          
          EcranVersFichier(FEN_Modifier_vulnérabilité)
          
@@ -171,6 +147,32 @@ window :
         type : 18
       -
         type : 161
+        enabled : false
+  -
+    name : SAI_Nom_Vulnerabilite
+    identifier : 0x261315cd085a7588
+    internal_properties : CAAAAAgAAAA1SBZsulC939uh+A+3L7Qbl0K5lH59m4KwuwzOUBPg0cMEt+0IP4mXHohW8CcpPi3lQp1zYHLufmMu1W64FzS7++3fii1IH4wGr3arx2W7x2ZSjtObekaNFrhcrAUMwALilM4ro876YzKEYTrlc1I4ouoXjiPkrEyXcCsDfuPN4+WHMWgvurLKEn1bjCrWqdBu1sekwmeyeDbTHqOb6SosrGCrrWgTleMEBH6cUYXA2srkU2UrXgqh4y8h6LYuzmepRWHtEz7LE8QcgjA1Od+C5x/HGx0mrrg99xKdalatQNFocuBKtWxZXRcXJZQrqtlqBIx9Ovxnn3xYDYW87h8DcbLxequ9ZmwrITqK2z8uYRXjmhcgXVpdmPDm6/W8IScu32zzDJy/ONraj/rnz2WN/YXd72QAOvEZe5O6jPlryN3nt9KZ5soTtvvzqS7JxJW/+lXaiKp+FoDSVMZIFxMy2jXEbYSFE3WRFh4UUyAFuvEIRpx8NC0Ft92P7XC3dKx3jzh5iqt8p2AKi7R4wFyCovQl2MDXVZyqCEfpKTbzmLCDZz1IMFbBRG3KoNe4fvT25ckv3WJYFoiz8e24HlvSKEy9aVKlqPOVf+wMHt9XzqqcjxSxVBzfvTHVV7Ed6H3a9fUK9t4UuL81c6M9bBE0lSoLPXXwRuXL1VfbgzQ8MuP8ex1X9OlTB4XHFqlmGRS1zdbPVE/K7CvbYn1CByrGtyJlATwejvVxDOuzrZYioA4UyIar2KdqhzZ9LGt6giGYBSpGT/LA2fnYBUJMvSXcOqMDeOM70b6YtfMKnKqPELQPikM/YqBnkt8ZZYUV9QoIQ/3HLpNcLrjQzVa9hATGvVkmzieEqEK1cdSsHHbXOs9zYdRoxd0hOukfDuXN0pvtNNus6NYwy87Zf3Xqhg6xo9d7Jec3a1pKKBw0Wwq7V1Z7IfJgfSRvIItrAKDDVIrIZ/64Ur1HqDf5xyqO
+    properties :
+     x : 13
+     y : 62
+     width : 330
+     height : 48
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        code : |1+
+         SAI_Nom_Vulnerabilite = nav_vulne_Nom
+        type : 14
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
         enabled : false
  actionbar :
   name : ACTB_ActionBar
